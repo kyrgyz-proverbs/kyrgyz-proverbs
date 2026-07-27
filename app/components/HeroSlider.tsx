@@ -38,15 +38,16 @@ export default function HeroSlider() {
 
   return (
     <div
-      style={{
-        width: "75%",
-        height: 525,
-        position: "relative",
-        overflow: "hidden",
-        borderRadius: 15,
-        marginBottom: 30,
-      }}
-    >
+  style={{
+    width: "90%",
+    maxWidth: 1500,
+    height: 525,
+    position: "relative",
+    overflow: "hidden",
+    borderRadius: 15,
+    margin: "0 auto 30px",
+  }}
+>
 
       <Image
         src={images[current]}
