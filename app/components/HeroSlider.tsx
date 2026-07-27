@@ -39,8 +39,8 @@ export default function HeroSlider() {
   return (
     <div
       style={{
-        width: "100%",
-        height: 480,
+        width: "75%",
+        height: 525,
         position: "relative",
         overflow: "hidden",
         borderRadius: 15,

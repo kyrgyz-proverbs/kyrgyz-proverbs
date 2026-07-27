@@ -5,7 +5,7 @@ export const categoryProverbs = [
     kyrgyz: "Адилеттүү мыйзамың болсо, көңүл ток; ансыз эркиндик жок.",
     turkish: "Adil nizamın olsa, gönlün tok; onsuz özgürlük yok!",
     comment: "Kalıs, kоr bоlbоyt.",
-    category: "1. Adalet ve Doğruluk",
+    category: "Adalet ve Doğruluk",
     subCategory: "Adalet ve Doğruluk",
   },
   {
@@ -13,7 +13,7 @@ export const categoryProverbs = [
     kyrgyz: "Калыс, кор болбойт.",
     turkish: "Adil, hor olmaz.",
     comment: "",
-    category: "1. Adalet ve Doğruluk",
+    category: "Adalet ve Doğruluk",
     subCategory: "Adalet ve Doğruluk",
   },
   {
@@ -21,7 +21,7 @@ export const categoryProverbs = [
     kyrgyz: "Калыс ханда, кайын жок; туура ханда, тууган жок.",
     turkish: "Adil handa kayın-hısım yok; doğru handa kardeş-akraba yok.",
     comment: "",
-    category: "1. Adalet ve Doğruluk",
+    category: "Adalet ve Doğruluk",
     subCategory: "Adalet ve Doğruluk",
   },
   {
@@ -29,7 +29,7 @@ export const categoryProverbs = [
     kyrgyz: "Туура бийде тууган жок; туугандуу бийде ыйман жок.",
     turkish: "Doğru beyde yakın yok; yakını olan beyde, iman yok.",
     comment: "",
-    category: "1. Adalet ve Doğruluk",
+    category: "Adalet ve Doğruluk",
     subCategory: "Adalet ve Doğruluk",
   },
   {
@@ -37,7 +37,7 @@ export const categoryProverbs = [
     kyrgyz: "Ак жеринен айдамак, адал жерден кармамак; теңсиздик, заман адаты.",
     turkish: "Ak yerden (günahı yokken) kovalamak, sevabı suç sayıp tutuklamak; adaletsizlik (eşitsizlik), zaman adeti.",
     comment: "Driving innocent people out of the country, punishing those who have committed no sin; injustice (inequality) is now new normal.",
-    category: "1. Adalet ve Doğruluk",
+    category: "Adalet ve Doğruluk",
     subCategory: "Haksızlık, Adaletsizlik & Injustice, Unfairness",
   },
   {
@@ -45,7 +45,7 @@ export const categoryProverbs = [
     kyrgyz: "Кыса (кысас), кыяматка кетпейт.",
     turkish: "Kısas, kıyamete kalmaz.",
     comment: "",
-    category: "1. Adalet ve Doğruluk",
+    category: "Adalet ve Doğruluk",
     subCategory: "Kısas, Hak",
   },
   {
@@ -53,7 +53,7 @@ export const categoryProverbs = [
     kyrgyz: "Кысасыз кыямат жок.",
     turkish: "Hesapsız (kısassız) kıyamet yok.",
     comment: "",
-    category: "1. Adalet ve Doğruluk",
+    category: "Adalet ve Doğruluk",
     subCategory: "Kısas, Hak",
   },
 {
@@ -61,7 +61,7 @@ export const categoryProverbs = [
     kyrgyz: "Билгенден биле элегиң көп; көргөндөн көрө элегиң көп.",
     turkish: "Bildiğinden bileceğin çok; gördüğünden göreceğin çok.",
     comment: "",
-    category: "2. Tevazu, Sadelik & Humility Simplicity",
+    category: "Tevazu, Sadelik & Humility Simplicity",
     subCategory: "Tevazu, Sadelik & Humility Simplicity",
   },
   {
@@ -69,7 +69,7 @@ export const categoryProverbs = [
     kyrgyz: "Кичи пейилдик, айкөлдүктүн белгиси.",
     turkish: "Mütevazılık, alicenaplığın belgisi.",
     comment: "Humility is the sign of magnanimity.",
-    category: "2. Tevazu, Sadelik & Humility Simplicity",
+    category: "Tevazu, Sadelik & Humility Simplicity",
     subCategory: "Tevazu, Sadelik & Humility Simplicity",
   },
   {
@@ -77,7 +77,7 @@ export const categoryProverbs = [
     kyrgyz: "«Билем, билем!» дей бербе, билгендерди көргөндө!",
     turkish: "“Biliyorum, biliyorum!” deme, bilenleri görünce.",
     comment: "",
-    category: "2. Tevazu, Sadelik & Humility Simplicity",
+    category: "Tevazu, Sadelik & Humility Simplicity",
     subCategory: "Tevazu, Sadelik & Humility Simplicity",
   },
   {
@@ -85,7 +85,7 @@ export const categoryProverbs = [
     kyrgyz: "Эрдиктин мыктысы, жөнөкөйлүк.",
     turkish: "Erliğin süsü, sadelik.",
     comment: "",
-    category: "2. Tevazu, Sadelik & Humility Simplicity",
+    category: "Tevazu, Sadelik & Humility Simplicity",
     subCategory: "Tevazu, Sadelik & Humility Simplicity",
   },
   {
@@ -93,7 +93,7 @@ export const categoryProverbs = [
     kyrgyz: "Жакшы айттыртпай билет, суратпай берет.",
     turkish: "İyi insan, sen söylemeden bilir; istemeden verir.",
     comment: "A good person knows before you even ask; he gives without asking.",
-    category: "2. Tevazu, Sadelik & Humility Simplicity",
+    category: "Tevazu, Sadelik & Humility Simplicity",
     subCategory: "Alicenap, Hakperest, İyi İnsan",
   },
   {
@@ -101,7 +101,7 @@ export const categoryProverbs = [
     kyrgyz: "Жаманга башчы болгончо, жакшыга кошу бол.",
     turkish: "Kötüye baş olacağına, iyiye bende ol!",
     comment: "İbni Mesud : \"Sünnette ihtisas, bid'attaki içtihaddan daha güzeldir.\" Hâkim\nInstead of leading evil, be a servant of a good person!",
-    category: "2. Tevazu, Sadelik & Humility Simplicity",
+    category: "Tevazu, Sadelik & Humility Simplicity",
     subCategory: "Alicenap, Hakperest, İyi İnsan",
   },
   {
@@ -109,7 +109,7 @@ export const categoryProverbs = [
     kyrgyz: "Жакшы адамда жаштык жок, тобокелдин көңүлү ток.",
     turkish: "İyi adamda gençlik (toyluk) yok; mütevekkilin gönlü tok.",
     comment: "",
-    category: "2. Tevazu, Sadelik & Humility Simplicity",
+    category: "Tevazu, Sadelik & Humility Simplicity",
     subCategory: "Alicenap, Hakperest, İyi İnsan",
   },
   {
@@ -117,7 +117,7 @@ export const categoryProverbs = [
     kyrgyz: "Чөптөн жапыз, суудан тайыз.",
     turkish: "Ottan yassı, sudan sığ.",
     comment: "Momun, cooş. Çok mülayim, sakin, orta halli insanlara söylenir. Elin ardında kalmayan, önüne de geçmeyen insan.",
-    category: "2. Tevazu, Sadelik & Humility Simplicity",
+    category: "Tevazu, Sadelik & Humility Simplicity",
     subCategory: "Alicenap, Hakperest, İyi İnsan",
   },
   {
@@ -125,7 +125,7 @@ export const categoryProverbs = [
     kyrgyz: "Ак сооттун жакасы бар, жеңи жок, чын жакшынын ачуусу бар, кеги жок.",
     turkish: "Ak zırhın yakası var, kolu yok; iyi, adil insanın (hakendişin) kızması var, kini yok.",
     comment: "“Allah’tan korkan kişinin kini kabarmaz.” (Hazreti Ömer’den)",
-    category: "2. Tevazu, Sadelik & Humility Simplicity",
+    category: "Tevazu, Sadelik & Humility Simplicity",
     subCategory: "Alicenap, Hakperest, İyi İnsan",
   },
   {
@@ -133,7 +133,7 @@ export const categoryProverbs = [
     kyrgyz: "Камгак өзүн жанмын дейт, камкөш өзүн канмын дейт.",
     turkish: "Karahindiba, özüne can der; züğürt, kendine han der.",
     comment: "“Abdal ata binmiş bey oldum sanır; şalgam aşa girince yağ oldum sanır.”",
-    category: "2. Tevazu, Sadelik & Humility Simplicity",
+    category: "Tevazu, Sadelik & Humility Simplicity",
     subCategory: "İyi-Kötü, Mağrur Adam",
   },
   {
@@ -141,7 +141,7 @@ export const categoryProverbs = [
     kyrgyz: "Жаман болсоң, бир кишисиң; жакшы болсоң, миң кишисиң.",
     turkish: "Yaman olsan, bir kişisin; yahşi olsan, bin kişisin.",
     comment: "",
-    category: "2. Tevazu, Sadelik & Humility Simplicity",
+    category: "Tevazu, Sadelik & Humility Simplicity",
     subCategory: "İyi-Kötü, Mağrur Adam",
   },
   {
@@ -149,7 +149,7 @@ export const categoryProverbs = [
     kyrgyz: "Эки жаман таарынышса, амандашпайт; эки жакшы таарынышса, жамандашпайт.",
     turkish: "İki yaman (kötü) birbirine darılsa, emanlaşmaz (barışmaz); iki iyi darılsa da yamanlaşmaz.",
     comment: "Cahil dostun olacağına, alim düşmanın olsun.",
-    category: "2. Tevazu, Sadelik & Humility Simplicity",
+    category: "Tevazu, Sadelik & Humility Simplicity",
     subCategory: "İyi-Kötü, Mağrur Adam",
   },
   {
@@ -157,7 +157,7 @@ export const categoryProverbs = [
     kyrgyz: "Актын иши оң болот, каранын иши кор болот.",
     turkish: "Akın (iyinin) işi sağ (doğru, güzel) olur; karanın (kötünün) işi hor olur.",
     comment: "Oñ: sağ yön. Sağdan kalkmak gibi.",
-    category: "2. Tevazu, Sadelik & Humility Simplicity",
+    category: "Tevazu, Sadelik & Humility Simplicity",
     subCategory: "İyi-Kötü, Mağrur Adam",
   },
   {
@@ -165,7 +165,7 @@ export const categoryProverbs = [
     kyrgyz: "Ит жадаса, үрөт; киши жадаса, күлөт.",
     turkish: "İt daralsa, ürür; insan daralsa, güler.",
     comment: "",
-    category: "2. Tevazu, Sadelik & Humility Simplicity",
+    category: "Tevazu, Sadelik & Humility Simplicity",
     subCategory: "Güzel Ahlak",
   },
   {
@@ -173,7 +173,7 @@ export const categoryProverbs = [
     kyrgyz: "Айдай чырайыңды, иттей кыялың бузат.",
     turkish: "Ay gibi güzelliğini, it gibi huyun bozuyor.",
     comment: "Your moon-like beauty is being spoiled by your dog-like temper.",
-    category: "2. Tevazu, Sadelik & Humility Simplicity",
+    category: "Tevazu, Sadelik & Humility Simplicity",
     subCategory: "Morality",
   },
   {
@@ -181,7 +181,7 @@ export const categoryProverbs = [
     kyrgyz: "Айттырбай иштеген, арстан; айтканды бүтүргөн, адам; көрсөткөндү бүтүрбөгөн, эшек.",
     turkish: "Laf söylettirmeden çalışan, arslan; söyleneni bitiren, adam; gösterileni bitirmeyen, eşek.",
     comment: "",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "İtaat, Çalışkanlık, Akıl",
   },
   {
@@ -189,7 +189,7 @@ export const categoryProverbs = [
     kyrgyz: "Эрдигиң бар, эсиң жок; эчтеме менен ишиң жок.",
     turkish: "Erliğin var aklın yok, hiçbirşey ile işin yok!",
     comment: "",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "İtaat, Çalışkanlık, Akıl",
   },
   {
@@ -197,7 +197,7 @@ export const categoryProverbs = [
     kyrgyz: "Коон үзгөндө жолдош элек, бозо сүзгөндө унуткансың.",
     turkish: "Kavun toplarken arkadaştık, bozo süzünce unuttun!",
     comment: "",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "Vefa",
   },
   {
@@ -205,7 +205,7 @@ export const categoryProverbs = [
     kyrgyz: "Душман жумурткадан кыр табат.",
     turkish: "“Düşman, yumurtada kenar (köşe) arar.”",
     comment: "“The enemy looks for edges (corners) in the egg.”",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "Kin, Haset, Düşmanlık",
   },
   {
@@ -213,7 +213,7 @@ export const categoryProverbs = [
     kyrgyz: "Ооруп турсаң, ойноп турдум де.",
     turkish: "Hastalanıp kalsan, “oynadım durdum” de.",
     comment: "İnleyip dursan da “oynadım, güldüm” de.",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "İyimserlik",
   },
   {
@@ -221,7 +221,7 @@ export const categoryProverbs = [
     kyrgyz: "Тишим кетик болсо да, көңүлүм тетик.",
     turkish: "Dişim, gedik olsa da; gönlüm şen ve genç.",
     comment: "",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "İyimserlik",
   },
   {
@@ -229,7 +229,7 @@ export const categoryProverbs = [
     kyrgyz: "Душманга өлүм тилегенче, өзүңө өмүр тиле.",
     turkish: "“Düşmana ölüm dileyeceğine, kendine ömür dile.”",
     comment: "",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "İyimserlik",
   },
   {
@@ -237,7 +237,7 @@ export const categoryProverbs = [
     kyrgyz: "Энеси ой ойлобогон, атасы той тойлобогон.",
     turkish: "Anası oy oylamayan (düşünmeyen); atası toy toylamayan.",
     comment: "Ana saf, baba görgüsüz, çocuklar da onlara benziyor.",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "Görgü, Adet, Medeniyet",
   },
   {
@@ -245,7 +245,7 @@ export const categoryProverbs = [
     kyrgyz: "Эшик ачык болсо да сурап кир.",
     turkish: "Eşik açık olsa da sorup gir.",
     comment: "Eve girmeden üç kez sesleniniz, veya üç kez kapıyı çalın.",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "Görgü, Adet, Medeniyet",
   },
   {
@@ -253,7 +253,7 @@ export const categoryProverbs = [
     kyrgyz: "Хандын, (улуктун, бектин) башы, көпүрө болсо, аттап өт.",
     turkish: "Hanın başı köprü olsa da, atlayıp geç (basma)!",
     comment: "1. Hana saygılı olmak gerek. 2. Han, bastığın için hesap sorabilir.\n“Ulular köprü olsa basıp geçme.”",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "Görgü, Adet, Medeniyet",
   },
   {
@@ -261,7 +261,7 @@ export const categoryProverbs = [
     kyrgyz: "Эрдик кылып кой сойду (сойсоң), иттик кылып төш тартты (тартпа).",
     turkish: "Erlik edip koyun kesti de, itlik edip döş verdi.",
     comment: "Koyunu kesip parçalamaya “cilikteme” denir. Kestikten sonra koyun on iki parçaya bölünür ve her parçasına “ustukan” denir. Döş, etsiz göğüs kemiği, misafirlere ikram edilmez. “Kuymulçak” (koyunun kuyruk tarafı), bi de “Cambaş” (koyunun arka etli, kemikli tarafı verilir). “Dalı” (koyunun en yumuşak yeri), yaşlılara verilir. Talas’ta misafirlere koyun başı verilir. Çocuklara “şiyrak” (paça, ayaklar) verilir.",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "Görgü, Adet, Medeniyet",
   },
   {
@@ -269,7 +269,7 @@ export const categoryProverbs = [
     kyrgyz: "Энесиз кыз, никесиз; атасыз уул, жетесиз.",
     turkish: "Anasız kız, nikahsız gider; atasız oğul, soysuz olur.",
     comment: "Kontrol az olduğu için...",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "Görgü, Adet, Medeniyet",
   },
   {
@@ -277,7 +277,7 @@ export const categoryProverbs = [
     kyrgyz: "Элек сурап барып, эрге тийип кетиптир.",
     turkish: "Elek sormaya gidip, ere vardı.",
     comment: "",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "Kısmet, Nasip",
   },
   {
@@ -285,7 +285,7 @@ export const categoryProverbs = [
     kyrgyz: "Куттуу үйдөн, куру чыкпа.",
     turkish: "Kutlu evden, kuru (nasipsiz) çıkma.",
     comment: "",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "Kısmet, Nasip",
   },
   {
@@ -293,7 +293,7 @@ export const categoryProverbs = [
     kyrgyz: "Сурап бергенче, уруп бер.",
     turkish: "Sorup vereceğine, vurup ver!",
     comment: "“Yemek ister misin?” diye, misafire sorulmaz.",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "Misafirlik",
   },
   {
@@ -301,7 +301,7 @@ export const categoryProverbs = [
     kyrgyz: "Сурап ичкен, суу ичкен.",
     turkish: "Sorup yemek, su içmek gibidir.",
     comment: "Ev sahibine, konuk, “yemek getir” derse, gelen yemek, su gibi tatsız olur.",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "Misafirlik",
   },
   {
@@ -309,7 +309,7 @@ export const categoryProverbs = [
     kyrgyz: "Аш, ээси менен; баш, мееси менен.",
     turkish: "Yemek sahibiyle; kelle beyniyle güzel.",
     comment: "",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "Misafirlik",
   },
   {
@@ -317,7 +317,7 @@ export const categoryProverbs = [
     kyrgyz: "Көрктүүнү көрүп алганча, сүйгөнүңдү сурап ал.",
     turkish: "Görüp de hoşuna gideni alacağına; sevdiğini, sorup al.",
     comment: "Bilerek, planlı iş yap,...",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "Plan, Programlı İş Yapmak",
   },
   {
@@ -325,7 +325,7 @@ export const categoryProverbs = [
     kyrgyz: "Балыкты сууга салып коркутпа!",
     turkish: "Balığı suya salıp korkutma!",
     comment: "",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "Plan, Programlı İş Yapmak",
   },
   {
@@ -333,7 +333,7 @@ export const categoryProverbs = [
     kyrgyz: "Ийлеп ийлеп, итке салба.",
     turkish: "Yoğurup yoğurup, ite atma!",
     comment: "“Hamursa, atma, emeğine acı; insan ise atma, insana acı.”",
-    category: "3. İtaat, Çalışkanlık, Akıl",
+    category: "İtaat, Çalışkanlık, Akıl",
     subCategory: "Plan, Programlı İş Yapmak",
   },
   {
@@ -341,7 +341,7 @@ export const categoryProverbs = [
     kyrgyz: "Башы оорубагандын кудай менен иши жок.",
     turkish: "Başı ağrımayanın, Allah ile işi olmaz.",
     comment: "",
-    category: "4. İnanç, Ahlak ve Erdem",
+    category: "İnanç, Ahlak ve Erdem",
     subCategory: "İnanç, Ahlak ve Erdem",
   },
   {
@@ -349,7 +349,7 @@ export const categoryProverbs = [
     kyrgyz: "Зорго сыйынсаң, кудайга сыйын.",
     turkish: "Büyüğe sığınsan, Hüda’ya sığın.",
     comment: "",
-    category: "4. İnanç, Ahlak ve Erdem",
+    category: "İnanç, Ahlak ve Erdem",
     subCategory: "İnanç, Ahlak ve Erdem",
   },
   {
@@ -357,7 +357,7 @@ export const categoryProverbs = [
     kyrgyz: "Мусулманды салабатынан тааны.",
     turkish: "Müslümanı salavatından tanı.",
     comment: "",
-    category: "4. İnanç, Ahlak ve Erdem",
+    category: "İnanç, Ahlak ve Erdem",
     subCategory: "İnanç, Ahlak ve Erdem",
   },
   {
@@ -365,7 +365,7 @@ export const categoryProverbs = [
     kyrgyz: "Бенденин оозунан чыкса, бериштенин кулагына аян болот.",
     turkish: "Bendenin (kulun) ağzından çıksa, meleğin kulağına ayan olur.",
     comment: "",
-    category: "4. İnanç, Ahlak ve Erdem",
+    category: "İnanç, Ahlak ve Erdem",
     subCategory: "İnanç, Ahlak ve Erdem",
   },
   {
@@ -373,7 +373,7 @@ export const categoryProverbs = [
     kyrgyz: "Момундун ишин теңир мактайт.",
     turkish: "Mü’minin işini, Allah över.",
     comment: "",
-    category: "4. İnanç, Ahlak ve Erdem",
+    category: "İnanç, Ahlak ve Erdem",
     subCategory: "İnanç, Ahlak ve Erdem",
   },
   {
@@ -381,7 +381,7 @@ export const categoryProverbs = [
     kyrgyz: "Качкан да кудай дейт, кууган да кудай дейт. Кимибиз озунабыз, аны да кудай билет! (Буларды жараткан алла кимисинин камын жейт?)",
     turkish: "Kaçan da “Hüda” der, kovalayan da “Hüda” der. Bunları yaratan Allah hangisinin doğru yaptığını daha iyi bilir.",
     comment: "",
-    category: "4. İnanç, Ahlak ve Erdem",
+    category: "İnanç, Ahlak ve Erdem",
     subCategory: "İnanç, Ahlak ve Erdem",
   },
   {
@@ -389,7 +389,7 @@ export const categoryProverbs = [
     kyrgyz: "Башыңдан ким сыласа, машаягың ошо; жаныңда ким отурса, сулууң ошо.",
     turkish: "Başını kim okşasa, meşayihin o; yanına kim otursa, güzelin o.",
     comment: "",
-    category: "4. İnanç, Ahlak ve Erdem",
+    category: "İnanç, Ahlak ve Erdem",
     subCategory: "Rehberlik",
   },
   {
@@ -397,7 +397,7 @@ export const categoryProverbs = [
     kyrgyz: "Картаңдан ыйман кетсе, жаштардан уят кетет.",
     turkish: "İhtiyardan iman gitse, gençlerden haya gider.",
     comment: "",
-    category: "4. İnanç, Ahlak ve Erdem",
+    category: "İnanç, Ahlak ve Erdem",
     subCategory: "Rehberlik",
   },
   {
@@ -405,7 +405,7 @@ export const categoryProverbs = [
     kyrgyz: "Адам, адам менен адам.",
     turkish: "Adam, adam ile adam.",
     comment: "",
-    category: "4. İnanç, Ahlak ve Erdem",
+    category: "İnanç, Ahlak ve Erdem",
     subCategory: "Rehberlik",
   },
   {
@@ -413,7 +413,7 @@ export const categoryProverbs = [
     kyrgyz: "Отуз күндүк орозонун, үч күндүк айты бар.",
     turkish: "Otuz günlük ramazanın üç günlük bayramı var.",
     comment: "",
-    category: "4. İnanç, Ahlak ve Erdem",
+    category: "İnanç, Ahlak ve Erdem",
     subCategory: "Ramazan, Bayram",
   },
   {
@@ -421,7 +421,7 @@ export const categoryProverbs = [
     kyrgyz: "Орозодо көчкөн, эрмек.",
     turkish: "Ramazanda göçmek, şenlik.",
     comment: "Ramazan’da ölene, ne mutlu!",
-    category: "4. İnanç, Ahlak ve Erdem",
+    category: "İnanç, Ahlak ve Erdem",
     subCategory: "Ramazan, Bayram",
   },
   {
@@ -429,7 +429,7 @@ export const categoryProverbs = [
     kyrgyz: "Бала бар үйдө калп сүйлөбө.",
     turkish: "Çocuk olan evde yalan söyleme!",
     comment: "",
-    category: "4. İnanç, Ahlak ve Erdem",
+    category: "İnanç, Ahlak ve Erdem",
     subCategory: "Doğruluk, Yalan",
   },
   {
@@ -437,7 +437,7 @@ export const categoryProverbs = [
     kyrgyz: "Бир жолу калпың билинсе, сөзгө алгысыз болорсуң.",
     turkish: "Bir kere yalanın bilinse, bir daha sözün geçmez.",
     comment: "",
-    category: "4. İnanç, Ahlak ve Erdem",
+    category: "İnanç, Ahlak ve Erdem",
     subCategory: "Doğruluk, Yalan",
   },
   {
@@ -445,7 +445,7 @@ export const categoryProverbs = [
     kyrgyz: "Чын айтып залал тап, акыры жетерсиң муратка; калп (же жалган) айтып, пайда тап, акырында каларсың уятка.",
     turkish: "Doğru söyleyip zarar bul, ahiri yetersin murada; yalan söyleyip fayda bul, ahirde düşersin utanca.",
     comment: "",
-    category: "4. İnanç, Ahlak ve Erdem",
+    category: "İnanç, Ahlak ve Erdem",
     subCategory: "Doğruluk, Yalan",
   },
   {
@@ -453,7 +453,7 @@ export const categoryProverbs = [
     kyrgyz: "Актын иши оң болот; каранын иши кор болот.",
     turkish: "Ak’ın (iyinin) işi, sağ olur; karanın (kötünün) işi, hor olur.",
     comment: "Oñ: sağ yön. Sağdan kalkmak gibi.",
-    category: "4. İnanç, Ahlak ve Erdem",
+    category: "İnanç, Ahlak ve Erdem",
     subCategory: "Doğruluk, Yalan",
   },
   {
@@ -461,7 +461,7 @@ export const categoryProverbs = [
     kyrgyz: "Бакыт эмгектен жаралат.",
     turkish: "Baht emekten yapılır.",
     comment: "Gökten zenbille inmez.",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Emek, Çalışma, Bilim",
   },
   {
@@ -469,7 +469,7 @@ export const categoryProverbs = [
     kyrgyz: "Бакыт деген тоголок, аны токтотууга эп керек; мээнет деген жалпак, аны көтөрүүгө күч керек.",
     turkish: "Baht dediğin yuvarlak, durdurmaya hüner gerek; mihnet ise, yassıdır, götürmeye güç gerek.",
     comment: "",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Emek, Çalışma, Bilim",
   },
   {
@@ -477,7 +477,7 @@ export const categoryProverbs = [
     kyrgyz: "Жүрөгүм күйгүчө, билегим күйсүн.",
     turkish: "Yüreğim yanacağına, bileğim yansın. (Üzüleceğine çalış.)",
     comment: "“Baş veren olunca yürek bulunur.”",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Emek, Çalışma, Bilim",
   },
   {
@@ -485,7 +485,7 @@ export const categoryProverbs = [
     kyrgyz: "Эмгектин деңгээлин, мезгил тастыктайт.",
     turkish: "Emeğin seviyesini (değerini) zaman tasdikler.",
     comment: "Bugün anlaşılmasa da ilerde anlaşılır.",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Emek, Çalışma, Bilim",
   },
   {
@@ -493,7 +493,7 @@ export const categoryProverbs = [
     kyrgyz: "Эмгек бар жерде жылыш бар, жылыш бар жерде ырыс бар.",
     turkish: "Emek olan yerde, ilerleme var; ilerleme olan yerde, refah vardır.",
     comment: "",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Emek, Çalışma, Bilim",
   },
   {
@@ -501,7 +501,7 @@ export const categoryProverbs = [
     kyrgyz: "Дүйнөнүн шамы, билим; жашоонун шамы, эмгек.",
     turkish: "Dünyanın mumu (kandili), bilim; yaşamın kandili, emek.",
     comment: "",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Emek, Çalışma, Bilim",
   },
   {
@@ -509,7 +509,7 @@ export const categoryProverbs = [
     kyrgyz: "Азамат болсоң, ак иште, аздыр-көптүр мал болот; бекеринен мал тапсаң, берекеси жок болот.",
     turkish: "Yiğit olsan, ak (doğru) işle; az çok malın olur; bedavadan mal edinsen, bereketi yok olur.",
     comment: "",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Helal Kazanç",
   },
   {
@@ -517,7 +517,7 @@ export const categoryProverbs = [
     kyrgyz: "Ак ниеттин жүргөнү күлкү; арамзанын жүргөнү түлкү, таянганы мүлкү.",
     turkish: "İyi niyetlinin yüzü güleç, hali iyimser; haramzadenin yürüyüşü tilki; dayanağı mülkü.",
     comment: "Mübareğin işi hayır, yüzü güler; haraminin işi hile, malı kıble.",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Helal Kazanç",
   },
   {
@@ -525,7 +525,7 @@ export const categoryProverbs = [
     kyrgyz: "Арам тамак, аш болбойт.",
     turkish: "Haram yemek, aş (nimet) olmaz.",
     comment: "Haram yemek adamı doyurmaz.\nAş bolsun: Afiyet olsun!",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Helal Kazanç",
   },
   {
@@ -533,7 +533,7 @@ export const categoryProverbs = [
     kyrgyz: "Эмгексиз киреше, бетке чиркөө.",
     turkish: "Emeksiz gelir, yüz karası.",
     comment: "Çirköö: Kilise; 2: Kapalı; kara.\nKireşe: Gelir, para, mal.\nBetime çirköö bolup kaldı: Bana utanç vesilesi oldu.",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Helal Kazanç",
   },
   {
@@ -541,7 +541,7 @@ export const categoryProverbs = [
     kyrgyz: "Баскандан эринген бир кезде жүгүрөр.",
     turkish: "Yürümekten üşenen, zaman gelir koşmak zorunda kalır.",
     comment: "",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Tembellik, Çalışkanlık",
   },
   {
@@ -549,7 +549,7 @@ export const categoryProverbs = [
     kyrgyz: "Тиши чыккан балага чайнап берген, аш болбойт.",
     turkish: "Dişi çıkan çocuğa çiğneyip verilen, aş olmaz.",
     comment: "Bırak kendi çiğnesin!",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Tembellik, Çalışkanlık",
   },
   {
@@ -557,7 +557,7 @@ export const categoryProverbs = [
     kyrgyz: "Жайын билген, темирди үзөт.",
     turkish: "Yolunu bulan, demiri yüzer.",
     comment: "",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Ehliyet ve Hüner",
   },
   {
@@ -565,7 +565,7 @@ export const categoryProverbs = [
     kyrgyz: "Толубайдай сынчы бол, Токтогулдай ырчы бол.",
     turkish: "Tolubay gibi ehil ol; Toktogul gibi aşık ol.",
     comment: "Sınçı: Eleştirmen; uzman; savaş sanatını bilen, levazımatından anlayan.\nIrçı: Aşık, ozan.",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Ehliyet ve Hüner",
   },
   {
@@ -573,7 +573,7 @@ export const categoryProverbs = [
     kyrgyz: "Тез жанында ийри жыгач жатпас. (Тез бар жерде ийри жыгач турбайт.)",
     turkish: "Mengene yanında, eğri ahşap bulunmaz.",
     comment: "Ustası iyi ise çırağı kötü olmaz.",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Ehliyet ve Hüner",
   },
   {
@@ -581,7 +581,7 @@ export const categoryProverbs = [
     kyrgyz: "Байлаганды билсең, чечкенди да бил.",
     turkish: "Bağlamayı bilsen, çözmeyi de bil!",
     comment: "Hep çatıkkaş işler yürümez; bazen güler yüzlü, tatlı dilli olmak işleri daha da kolaylar.",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Ehliyet ve Hüner",
   },
   {
@@ -589,7 +589,7 @@ export const categoryProverbs = [
     kyrgyz: "Байлыктын баарысы жакшы, барктуусу билим.",
     turkish: "Baylığın hepsi iyidir; en kıymetlisi bilimdir.",
     comment: "",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Baylık ve Bilim",
   },
   {
@@ -597,7 +597,7 @@ export const categoryProverbs = [
     kyrgyz: "Билимдүү билсе да сурайт, билимсиз билбесе да сурабайт.",
     turkish: "Bilimi olan, bilse de sorar; bilimsiz, bilmese de sormaz.",
     comment: "",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Bilim, Araştırma",
   },
   {
@@ -605,7 +605,7 @@ export const categoryProverbs = [
     kyrgyz: "Дайыма изденүү, демиңе күч берүү.",
     turkish: "Daima izlemek, demine güç verir.",
     comment: "İlim, kalbe doğan bir nurdur. İlmin tadını alan, ölene kadar ilme doymaz.",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Bilim, Araştırma",
   },
   {
@@ -613,7 +613,7 @@ export const categoryProverbs = [
     kyrgyz: "Сурай-сурай Мекеге барат.",
     turkish: "Sora sora Mekke’ye varılır.",
     comment: "“Sora sora Bağdat bulunur.”",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Bilim, Araştırma",
   },
   {
@@ -621,7 +621,7 @@ export const categoryProverbs = [
     kyrgyz: "Өзүңө урунбас үчүн, өзгөгө жарык кыл.",
     turkish: "Özüne toslamasını istemiyorsan, özgeyi aydın kıl (ışık tut).",
     comment: "",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Eğitim, Öğretim",
   },
   {
@@ -629,7 +629,7 @@ export const categoryProverbs = [
     kyrgyz: "Үйрөнүү үчүн жаша, жашоо үчүн үйрөн.",
     turkish: "Öğrenmek için yaşa; yaşamak için öğren.",
     comment: "",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Eğitim, Öğretim",
   },
   {
@@ -637,7 +637,7 @@ export const categoryProverbs = [
     kyrgyz: "Жатып өлгүчө, атып өл.",
     turkish: "Yatıp öleceğine, atıp öl.",
     comment: "",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Aktivite",
   },
   {
@@ -645,7 +645,7 @@ export const categoryProverbs = [
     kyrgyz: "Заманың кандай болсо, бөркүңдү ошондой кий.",
     turkish: "Zamanın nasıl olsa, börkünü (fesini) öyle giy.",
     comment: "“Zaman sana uymazsa sen zamana uy.”",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Zaman, Devir, Boş Vakit",
   },
   {
@@ -653,7 +653,7 @@ export const categoryProverbs = [
     kyrgyz: "Экөө келжиресе, үчүнчүсү болбо.",
     turkish: "İki kişi malayani konuşsa (gevezelik ediyorsa), üçüncüsü olma!",
     comment: "“Vakit kılıçtır, kendini keseni keser.”",
-    category: "5. Emek, Çalışma, Bilim",
+    category: "Emek, Çalışma, Bilim",
     subCategory: "Zaman, Devir, Boş Vakit",
   },
   {
@@ -661,7 +661,7 @@ export const categoryProverbs = [
     kyrgyz: "Эски даракты түбүнөн кыркы.",
     turkish: "Eski ağacı dibinden buda.",
     comment: "Prune the old tree from the bottom.",
-    category: "6. Yenilenme İhtiyacı (Need for renewal, replacement)",
+    category: "Yenilenme İhtiyacı (Need for renewal, replacement)",
     subCategory: "Yenilenme İhtiyacı (Need for renewal, replacement)",
   },
   {
@@ -669,7 +669,7 @@ export const categoryProverbs = [
     kyrgyz: "Жаман адам, өзү боло албайт; болгонду, көрө албайт.",
     turkish: "Kötü, ne kendi adam olur, ne de olanı görür.",
     comment: "",
-    category: "6. Yenilenme İhtiyacı (Need for renewal, replacement)",
+    category: "Yenilenme İhtiyacı (Need for renewal, replacement)",
     subCategory: "Yenilenme İhtiyacı (Need for renewal, replacement)",
   },
   {
@@ -677,7 +677,7 @@ export const categoryProverbs = [
     kyrgyz: "Бак карабай кыдыр да даарыбайт.",
     turkish: "Baht aramazsan, Hızır da darı vermez (yetişmez).",
     comment: "“Gayret senden, nusret Cenab-ı Allah’tan.”",
-    category: "6. Yenilenme İhtiyacı (Need for renewal, replacement)",
+    category: "Yenilenme İhtiyacı (Need for renewal, replacement)",
     subCategory: "Merak, Gayret, İlerleme",
   },
   {
@@ -685,7 +685,7 @@ export const categoryProverbs = [
     kyrgyz: "Бейкайратка бейиш жок.",
     turkish: "Gayretsize cennet yok.",
     comment: "“Cennet ucuz değil, cehennem dahi lüzumsuz değil.” (Nursi, Mektubat, Hakikat Çekirdekleri)",
-    category: "6. Yenilenme İhtiyacı (Need for renewal, replacement)",
+    category: "Yenilenme İhtiyacı (Need for renewal, replacement)",
     subCategory: "Merak, Gayret, İlerleme",
   },
   {
@@ -693,7 +693,7 @@ export const categoryProverbs = [
     kyrgyz: "Тирүү койгонду, куру койбойт.",
     turkish: "Diri kıldığını kuru koymaz.",
     comment: "Allah, yarattığı kula sahip çıkar.",
-    category: "6. Yenilenme İhtiyacı (Need for renewal, replacement)",
+    category: "Yenilenme İhtiyacı (Need for renewal, replacement)",
     subCategory: "Tevekkül",
   },
   {
@@ -701,7 +701,7 @@ export const categoryProverbs = [
     kyrgyz: "Тобокел, эрдин жолдошу.",
     turkish: "Tevekkül, erin yoldaşı.",
     comment: "Tobokel: Hayırlısı olsun. Ne olsa da görelim, manasında kullanılır.",
-    category: "6. Yenilenme İhtiyacı (Need for renewal, replacement)",
+    category: "Yenilenme İhtiyacı (Need for renewal, replacement)",
     subCategory: "Tevekkül",
   },
   {
@@ -709,7 +709,7 @@ export const categoryProverbs = [
     kyrgyz: "Тобокелдин көңүлү ток.",
     turkish: "Mütevekkilde endişe yok.",
     comment: "“Allah var, gam yok.”\nKöönü tok: Köñülü tok: Beklentisiz, müstağni.",
-    category: "6. Yenilenme İhtiyacı (Need for renewal, replacement)",
+    category: "Yenilenme İhtiyacı (Need for renewal, replacement)",
     subCategory: "Tevekkül",
   },
   {
@@ -717,7 +717,7 @@ export const categoryProverbs = [
     kyrgyz: "Тобокел ишке кайгы жок.",
     turkish: "Tevekkül edilen işe kaygı duyulmaz.",
     comment: "",
-    category: "6. Yenilenme İhtiyacı (Need for renewal, replacement)",
+    category: "Yenilenme İhtiyacı (Need for renewal, replacement)",
     subCategory: "Tevekkül",
   },
   {
@@ -725,7 +725,7 @@ export const categoryProverbs = [
     kyrgyz: "Инанымы жоктун адеби жок.",
     turkish: "İnancı olmayanın edebi de yok.",
     comment: "",
-    category: "6. Yenilenme İhtiyacı (Need for renewal, replacement)",
+    category: "Yenilenme İhtiyacı (Need for renewal, replacement)",
     subCategory: "İnanç, Edep",
   },
   {
@@ -733,7 +733,7 @@ export const categoryProverbs = [
     kyrgyz: "Кудай малыңды алса да, абийириңди албасын.",
     turkish: "Allah malını alsa da edebini (maneviyatını) almasın.",
     comment: "",
-    category: "6. Yenilenme İhtiyacı (Need for renewal, replacement)",
+    category: "Yenilenme İhtiyacı (Need for renewal, replacement)",
     subCategory: "İnanç, Edep",
   },
   {
@@ -741,7 +741,7 @@ export const categoryProverbs = [
     kyrgyz: "Адамдын башкы милдети, ыймандуулук.",
     turkish: "İnsanın en birinci vazifesi, îmanlı olmaktır.",
     comment: "",
-    category: "6. Yenilenme İhtiyacı (Need for renewal, replacement)",
+    category: "Yenilenme İhtiyacı (Need for renewal, replacement)",
     subCategory: "İnanç, Edep",
   },
   {
@@ -749,7 +749,7 @@ export const categoryProverbs = [
     kyrgyz: "Бата менен эр көгөрөт; жамгыр менен жер көгөрөт.",
     turkish: "Dua ile er göğerir; yağmur ile yer göğerir (yetişir).",
     comment: "“Yer, gök, dua ile ayakta durur.”",
-    category: "6. Yenilenme İhtiyacı (Need for renewal, replacement)",
+    category: "Yenilenme İhtiyacı (Need for renewal, replacement)",
     subCategory: "Dua",
   },
   {
@@ -757,7 +757,7 @@ export const categoryProverbs = [
     kyrgyz: "Чаккан өлтүрөт, мактаган жеткирет.",
     turkish: "Eleştiren öldürür, öven murada erdirir.",
     comment: "Çakkan: Isıran, eleştiren",
-    category: "7. Övgü, Eleştiri",
+    category: "Övgü, Eleştiri",
     subCategory: "Övgü, Eleştiri",
   },
   {
@@ -765,7 +765,7 @@ export const categoryProverbs = [
     kyrgyz: "Эрим мени урса, мен балдарымды урам.",
     turkish: "Erim beni döverse, ben de çocuklarımı döverim.",
     comment: "",
-    category: "7. Övgü, Eleştiri",
+    category: "Övgü, Eleştiri",
     subCategory: "Övgü, Eleştiri",
   },
   {
@@ -773,7 +773,7 @@ export const categoryProverbs = [
     kyrgyz: "Ыйман турат токтуктан, ыйман качар жоктуктан.",
     turkish: "İman durur tokluktan, iman kaçar yokluktan.",
     comment: "“Fakirlik nerdeyse küfür olacaktı.” (Hadis-i Şerif meali,- Aclunî, 2/108)",
-    category: "8. Varlık, Yokluk",
+    category: "Varlık, Yokluk",
     subCategory: "Varlık, Yokluk",
   },
   {
@@ -781,7 +781,7 @@ export const categoryProverbs = [
     kyrgyz: "Байлыгың болбосо да баркың болсун.",
     turkish: "Baylığın olmasa da haysiyetin olsun.",
     comment: "“Bilmeyen kimseler, iffetlerinden dolayı onları zengin zanneder. Sen onları simalarından tanırsın. Çünkü onlar yüzsüzlük ederek istemezler.” (Bakara 2/273, Diyanet çevirisi)",
-    category: "8. Varlık, Yokluk",
+    category: "Varlık, Yokluk",
     subCategory: "Varlık, Yokluk",
   },
   {
@@ -789,7 +789,7 @@ export const categoryProverbs = [
     kyrgyz: "Аздын арманы күчтүү, көптүн дарманы күчтүү.",
     turkish: "Azın hayali güçlü; çoğun dermanı güçlü.",
     comment: "",
-    category: "8. Varlık, Yokluk",
+    category: "Varlık, Yokluk",
     subCategory: "Varlık, Yokluk",
   },
   {
@@ -797,7 +797,7 @@ export const categoryProverbs = [
     kyrgyz: "Байлыкты сүйгөн, намысты билбейт.",
     turkish: "Baylığı seven, namusu bilmez.",
     comment: "",
-    category: "8. Varlık, Yokluk",
+    category: "Varlık, Yokluk",
     subCategory: "Baylık, Namus",
   },
   {
@@ -805,7 +805,7 @@ export const categoryProverbs = [
     kyrgyz: "Адамды бузган, байлык менен бийлик.",
     turkish: "Adamı bozan, baylık ile beylik.",
     comment: "",
-    category: "8. Varlık, Yokluk",
+    category: "Varlık, Yokluk",
     subCategory: "Baylık, Namus",
   },
   {
@@ -813,7 +813,7 @@ export const categoryProverbs = [
     kyrgyz: "Жарды болсоң да, ардуу бол.",
     turkish: "Fakir olsan da arlı ol!",
     comment: "",
-    category: "8. Varlık, Yokluk",
+    category: "Varlık, Yokluk",
     subCategory: "Baylık, Namus",
   },
   {
@@ -821,7 +821,7 @@ export const categoryProverbs = [
     kyrgyz: "Бай малын жейт, кедей жанын жейт, уятсыз арын жейт.",
     turkish: "Zengin, malını yer; fakir, canını yer; hayasız, arını yer.",
     comment: "",
-    category: "8. Varlık, Yokluk",
+    category: "Varlık, Yokluk",
     subCategory: "Baylık, Namus",
   },
   {
@@ -829,7 +829,7 @@ export const categoryProverbs = [
     kyrgyz: "Чын жакшыга жолуктасаң, суу ордуна бал берет; чын баатырга жолуктасаң, сен үчүн ал жан берет.",
     turkish: "Hakiki cömerde rastlasan, su yerine bal verir; hakiki kahramana rastlasan, senin için can verir.",
     comment: "",
-    category: "8. Varlık, Yokluk",
+    category: "Varlık, Yokluk",
     subCategory: "Cömertlik",
   },
   {
@@ -837,7 +837,7 @@ export const categoryProverbs = [
     kyrgyz: "Ата уулу айтканынан кайтпайт, жоомарт бергенин айтпайт.",
     turkish: "Eroğlu er, söylediğinden dönmez; cömert olan, verdiğini söylemez.",
     comment: "",
-    category: "8. Varlık, Yokluk",
+    category: "Varlık, Yokluk",
     subCategory: "Cömertlik",
   },
   {
@@ -845,7 +845,7 @@ export const categoryProverbs = [
     kyrgyz: "Сараңдардын миңинен, жалгыз да болсо март жакшы.",
     turkish: "Cimrilerin bininden, yalnız da olsa mert (cömert) iyidir.",
     comment: "",
-    category: "8. Varlık, Yokluk",
+    category: "Varlık, Yokluk",
     subCategory: "Cömertlik",
   },
   {
@@ -853,7 +853,7 @@ export const categoryProverbs = [
     kyrgyz: "Карыз үн катпайт, бирок уктатпайт.",
     turkish: "Borç, ses çıkarmaz, yine de uyutmaz.",
     comment: "",
-    category: "9. Borç",
+    category: "Borç",
     subCategory: "Borç",
   },
   {
@@ -861,7 +861,7 @@ export const categoryProverbs = [
     kyrgyz: "Карыз, карызды берүү парыз.",
     turkish: "Karz, karzı vermek farz.",
     comment: "“Borç yiğidin kamçısıdır.”",
-    category: "9. Borç",
+    category: "Borç",
     subCategory: "Borç",
   },
   {
@@ -869,7 +869,7 @@ export const categoryProverbs = [
     kyrgyz: "Бай баласы кубанаар койдон туулган эгизге; арамзалар көз салат жылкыдагы семизге.",
     turkish: "Zengin balası sevinir koyundan doğan ikize; haramzadeler ise göz koyar yılkıdaki semize.",
     comment: "Zengin, biriktirir; haramzade ise kısa yoldan zenginlik ister.",
-    category: "10. Şükür ve Kanaat",
+    category: "Şükür ve Kanaat",
     subCategory: "Şükür ve Kanaat",
   },
   {
@@ -877,7 +877,7 @@ export const categoryProverbs = [
     kyrgyz: "Карын бай малга тойбойт, Улукман жашка тойбойт.",
     turkish: "Kârun bay, mala doymaz; Lokman hekim, yaşa doymaz.",
     comment: "",
-    category: "10. Şükür ve Kanaat",
+    category: "Şükür ve Kanaat",
     subCategory: "Şükür ve Kanaat",
   },
   {
@@ -885,7 +885,7 @@ export const categoryProverbs = [
     kyrgyz: "Кудайдын бергенин билбейт, урганын билет.",
     turkish: "Allah’ın verdiğini bilmez, vurduğunu (aldığını) bilir.",
     comment: "",
-    category: "10. Şükür ve Kanaat",
+    category: "Şükür ve Kanaat",
     subCategory: "Şükür ve Kanaat",
   },
   {
@@ -893,7 +893,7 @@ export const categoryProverbs = [
     kyrgyz: "Мансапка мас болгон, көлгө көпүрө салам дейт.",
     turkish: "Mansıba düşkün olan, göle köprü yapayım der.",
     comment: "",
-    category: "11. Mansıp",
+    category: "Mansıp",
     subCategory: "Mansıp",
   },
   {
@@ -901,7 +901,7 @@ export const categoryProverbs = [
     kyrgyz: "Кашыктап чогултканды, чөмүчтөп чачпа.",
     turkish: "Kaşık kaşık biriktirdiğini, kepçe kepçe saçma!",
     comment: "",
-    category: "12. İsraf",
+    category: "İsraf",
     subCategory: "İsraf",
   },
   {
@@ -909,7 +909,7 @@ export const categoryProverbs = [
     kyrgyz: "Ийлеп-ийлеп, итке салба.",
     turkish: "Yoğurup yoğurup, ite atma!",
     comment: "“Hamursa, atma, emeğine acı; insan ise atma, insana acı.”",
-    category: "12. İsraf",
+    category: "İsraf",
     subCategory: "İsraf",
   },
   {
@@ -917,7 +917,7 @@ export const categoryProverbs = [
     kyrgyz: "Ийгилик үстүндө пейлиңди тарытпа; иш үстүндө көңүлүңдү иритпе.",
     turkish: "İyilik üstünde himmetini daraltma; iş üstünde gönlünü ekşitme!",
     comment: "İyiliğin azı da çoğu da birdir; işin iyisi kötüsü olmaz.",
-    category: "13. İyilik, Himmet",
+    category: "İyilik, Himmet",
     subCategory: "İyilik, Himmet",
   },
   {
@@ -925,7 +925,7 @@ export const categoryProverbs = [
     kyrgyz: "Бир жакшы бар, журттун камын жейт; бир жаман бар, малын жейт.",
     turkish: "Bir iyi var, yurdun gamını çeker; bir yaman var, yurdun malını yer.",
     comment: "",
-    category: "13. İyilik, Himmet",
+    category: "İyilik, Himmet",
     subCategory: "Diğergamlık, Bencillik",
   },
   {
@@ -933,7 +933,7 @@ export const categoryProverbs = [
     kyrgyz: "Ойдон бир уйдун мүйүзү сынса, тоодон миң уйдун мүйүзү зыркырайт.",
     turkish: "Çukurda, bir ineğin boynuzu kırılsa, dağdaki bin ineğin boynuzu sızlar",
     comment: "Hemcinsinin başına gelen bir sıkıntı hepsini müteesir eder.",
-    category: "13. İyilik, Himmet",
+    category: "İyilik, Himmet",
     subCategory: "Diğergamlık, Bencillik",
   },
   {
@@ -941,7 +941,7 @@ export const categoryProverbs = [
     kyrgyz: "Мен күйбөсөм, сен күйбөсөң, ким күйөт?",
     turkish: "Sen yanmazsan, ben yanmazsam, kim yanar?",
     comment: "",
-    category: "13. İyilik, Himmet",
+    category: "İyilik, Himmet",
     subCategory: "Diğergamlık, Bencillik",
   },
   {
@@ -949,7 +949,7 @@ export const categoryProverbs = [
     kyrgyz: "Өзүмдүкү дегенде өгүз кара күчүм бар; өзгөнүкү дегенде ана-мына ишим бар.",
     turkish: "Kendiminki deyince, öküz gibi gücüm var; akrabamınki deyince, bir sürü işim var.",
     comment: "Kendi işine koşan ama, ağyar ile diğergam olmayanlar için…",
-    category: "13. İyilik, Himmet",
+    category: "İyilik, Himmet",
     subCategory: "Diğergamlık, Bencillik",
   },
   {
@@ -957,7 +957,7 @@ export const categoryProverbs = [
     kyrgyz: "Берекесин маа берсин, көлөкөсүн саа берсин.",
     turkish: "Bereketini bana versin, gölgesini sana versin.",
     comment: "",
-    category: "13. İyilik, Himmet",
+    category: "İyilik, Himmet",
     subCategory: "Diğergamlık, Bencillik",
   },
   {
@@ -965,7 +965,7 @@ export const categoryProverbs = [
     kyrgyz: "Бүгүн барда, эртең жок; атаңдын көрү дүйнө бок!",
     turkish: "Bugün var yarın yok; ölünün körü, dünya bok!",
     comment: "",
-    category: "13. İyilik, Himmet",
+    category: "İyilik, Himmet",
     subCategory: "Fena",
   },
   {
@@ -973,7 +973,7 @@ export const categoryProverbs = [
     kyrgyz: "Келме кезек, терме тезек; бүгүн көргөн эртең жок.",
     turkish: "Ölüm kezek, derme tezek; bugün gördün, yarın yok.",
     comment: "Ölüm sıra ile gelir, tezek yoldan toplanır.\nKelme: Kelime-i tevhid demek. Son nefeste söylenmesi adet olduğundan zamanla “ölüm” anlamı kazanmış.",
-    category: "13. İyilik, Himmet",
+    category: "İyilik, Himmet",
     subCategory: "Fena",
   },
   {
@@ -981,7 +981,7 @@ export const categoryProverbs = [
     kyrgyz: "Кары да бол, жаш да бол, кадырлашкын тирүүңдө; калат бир күн алтын баш казылган көрдүн түбүндө.",
     turkish: "Yaşlı da ol, genç de ol, kadirleşin diride; kalır bir gün altın baş, kazılan körün dibinde.",
     comment: "",
-    category: "13. İyilik, Himmet",
+    category: "İyilik, Himmet",
     subCategory: "Fena",
   },
   {
@@ -989,7 +989,7 @@ export const categoryProverbs = [
     kyrgyz: "Жөтөл, картаңдын күлкүсү.",
     turkish: "Öksürük, ihtiyarın gülüşü.",
     comment: "",
-    category: "13. İyilik, Himmet",
+    category: "İyilik, Himmet",
     subCategory: "İhtiyarlık ve Örnek Olma",
   },
   {
@@ -997,7 +997,7 @@ export const categoryProverbs = [
     kyrgyz: "Картаңдан ыйман кетсе, жаштардан уят кетет.",
     turkish: "İhtiyardan iman gitse, gençlerden haya gider.",
     comment: "Yaşlılar Allah’tan korkmazsa, gençler yaşlılardan utanmaz.",
-    category: "13. İyilik, Himmet",
+    category: "İyilik, Himmet",
     subCategory: "İhtiyarlık ve Örnek Olma",
   },
   {
@@ -1005,7 +1005,7 @@ export const categoryProverbs = [
     kyrgyz: "Эт, сүт менен эл баккан; тери, жүн менен пул тапкан; коргол, көңүл менен от жаккан; эмгектүү адам, кой баккан.",
     turkish: "Et, süt ile el (çoluk çocuğuna) bakar; deri, yün ile para kazanır; tezek, gübre ile ateş yakar; emektar adam, koyun bakar.",
     comment: "",
-    category: "14. Hayvancılık",
+    category: "Hayvancılık",
     subCategory: "Hayvancılık",
   },
   {
@@ -1013,7 +1013,7 @@ export const categoryProverbs = [
     kyrgyz: "Эчкини сааса булак, ичи толгон улак эле; териси эгине кап, мүйүзү бычакка сап; тогуз карын майы, токсон чакмак куруту бар эле.",
     turkish: "Keçiyi sağsa bulak, içi yüklü oğlak; derisi ekine kap, boynuzu bıçağa sap; dokuz tulum yağ, doksan kutu kurutu var.",
     comment: "Kurut: Kurutulmuş ayran, keş.",
-    category: "14. Hayvancılık",
+    category: "Hayvancılık",
     subCategory: "Hayvancılık",
   },
   {
@@ -1021,7 +1021,7 @@ export const categoryProverbs = [
     kyrgyz: "Мусапыр болбой, мусулман болбойт.",
     turkish: "Garip, yolcu olmadan, müslüman olunmaz.",
     comment: "",
-    category: "14. Hayvancılık",
+    category: "Hayvancılık",
     subCategory: "Müslümanlık, Gariplik",
   },
   {
@@ -1029,7 +1029,7 @@ export const categoryProverbs = [
     kyrgyz: "Мусапыр болмок, бир күндө; мусулман болмок, көп күндө.",
     turkish: "Garip, fakir olmak bir günde; müslüman olmak, çok günde.",
     comment: "",
-    category: "14. Hayvancılık",
+    category: "Hayvancılık",
     subCategory: "Müslümanlık, Gariplik",
   },
   {
@@ -1037,7 +1037,7 @@ export const categoryProverbs = [
     kyrgyz: "Кыдыр назар кылбай, эшек базарында далдалчы.",
     turkish: "Hızır nazar kılmazsa, eşek pazarında dellalcı.",
     comment: "Allah “yürü ya kulum!” derse, kul menzile erişir. Yoksa pinekler durur.",
-    category: "14. Hayvancılık",
+    category: "Hayvancılık",
     subCategory: "İnayet",
   },
   {
@@ -1045,7 +1045,7 @@ export const categoryProverbs = [
     kyrgyz: "Жакшы кошунаңа жарамсыз сөз айтпа!",
     turkish: "“İyi komşuna yaramaz söz söyleme!”",
     comment: "“Aç kurt bile, komşusunu dalamaz.”",
-    category: "14. Hayvancılık",
+    category: "Hayvancılık",
     subCategory: "Komşuluk",
   },
   {
@@ -1053,7 +1053,7 @@ export const categoryProverbs = [
     kyrgyz: "Жакшы кошуна, бөксөрбөгөн казына.",
     turkish: "İyi komşu, eksilmez hazine.",
     comment: "“Anan, atan kim?” “yakın komşu!”",
-    category: "14. Hayvancılık",
+    category: "Hayvancılık",
     subCategory: "Komşuluk",
   },
   {
@@ -1061,7 +1061,7 @@ export const categoryProverbs = [
     kyrgyz: "Ышкысы жоктун ыйманы жок.",
     turkish: "Aşkı yoğun imanı yok.",
     comment: "",
-    category: "14. Hayvancılık",
+    category: "Hayvancılık",
     subCategory: "İman, insaf, aşk",
   },
   {
@@ -1069,7 +1069,7 @@ export const categoryProverbs = [
     kyrgyz: "Инсапсыз, ыйманына камчы чабат.",
     turkish: "İnsafsız, imanına kamçı vurur.",
     comment: "",
-    category: "14. Hayvancılık",
+    category: "Hayvancılık",
     subCategory: "İman, insaf, aşk",
   },
   {
@@ -1077,7 +1077,7 @@ export const categoryProverbs = [
     kyrgyz: "Эл камын ойлоп башкаргандык, кеменгердик.",
     turkish: "Halkın problemlerini yönetip çözmek, önderliktir.",
     comment: "",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "Yönetim, İdare, Büyüklük, Saygı",
   },
   {
@@ -1085,7 +1085,7 @@ export const categoryProverbs = [
     kyrgyz: "Башчы туурас болбосо, журт бузулат; соода туурас болбосо, нарк бузулат.",
     turkish: "Başçı dürüst olmazsa, yurt bozulur; ticaret dürüst olmazsa, ekonomi bozulur.",
     comment: "Nark: Paha, fiat, değer, liyakat\n“Doğru terazi ile tartın, halkın hakkından bir şey kısmayın. Ülkede bozgunculuk yaparak nizamı bozmayın!” (Şuara, 26/182-83)",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "Yönetim, İdare, Büyüklük, Saygı",
   },
   {
@@ -1093,7 +1093,7 @@ export const categoryProverbs = [
     kyrgyz: "Башчы экөө болсо, акыл жалгыз.",
     turkish: "Başçı iki olsa, akıl tek kalır.",
     comment: "“Bir evde iki horoz olunca sabah güç olur.”",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "Yönetim, İdare, Büyüklük, Saygı",
   },
   {
@@ -1101,7 +1101,7 @@ export const categoryProverbs = [
     kyrgyz: "Ага болсоң, акыл айт; акыл айтсаң макул айт.",
     turkish: "Ağabey olsan akıl ver; akıl versen makul ver.",
     comment: "",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "Yönetim, İdare, Büyüklük, Saygı",
   },
   {
@@ -1109,7 +1109,7 @@ export const categoryProverbs = [
     kyrgyz: "Өзүнүн бегин бөктөй албаган, кимдин чигин чиктейт?",
     turkish: "Kendi büyüğünü kaale almayan, kimin küçüğüne söz geçirebilir ki?",
     comment: "Oyundaki kazanma ve kaybetmeye dair isimler, makalda fiil olarak kullanılmış.\nÇükö: Aşık kemiği oyunu.\nBöktö: Kemiğin yüksek tarafı, gelirse kazanırsın,\nÇik: Kemiğin çukur tarafı, gelse kaybedersin.\nAykür: dik gelse en iyi.\nTaa, gelse üçüncü seviye.\nAykür tüştü çükösü: İşi rast gidiyor. Hit the jackpot.",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "Yönetim, İdare, Büyüklük, Saygı",
   },
   {
@@ -1117,7 +1117,7 @@ export const categoryProverbs = [
     kyrgyz: "Улууну урматта, кичүүдөн иймен.",
     turkish: "Uluya hürmet göster, küçükten utan, sıkıl.",
     comment: "",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "Yönetim, İdare, Büyüklük, Saygı",
   },
   {
@@ -1125,7 +1125,7 @@ export const categoryProverbs = [
     kyrgyz: "Ата сөзү алтын, көңүл коюп уксаң; ата сөзүн укпасаң, ажырайсың журтуңан.",
     turkish: "Ata sözü altın, kulak verip dinlersen; atanın sözünü duymazsan, ayrılır gidersin yurdundan!",
     comment: "",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "Yönetim, İdare, Büyüklük, Saygı",
   },
   {
@@ -1133,7 +1133,7 @@ export const categoryProverbs = [
     kyrgyz: "Кан, ак кеңешсе; кул, оң көрсөтөр.",
     turkish: "Han ak keneşse, kul sağ gösterir.",
     comment: "Han tarafsız bir istişare meclisi kursa, kullar doğru yolu gösterir.",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "İstişare, keneş",
   },
   {
@@ -1141,7 +1141,7 @@ export const categoryProverbs = [
     kyrgyz: "Жакшы кеңеш, жарым ырыс.",
     turkish: "İyi keneş (istişare), işin yarısı.",
     comment: "Irıs: Baht, talih, 2: Nasip, pay \n“Onlar, Rableri için davete icabet etmekte, namazı dosdoğru kılmaktadırlar. İşleri de hep aralarında istişarelidir. Kendilerine verdiğimiz rızıktan (Hak yolunda) harcarlar.” (Şura Suresi, 42/38)",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "İstişare, keneş",
   },
   {
@@ -1149,7 +1149,7 @@ export const categoryProverbs = [
     kyrgyz: "Жаш, каруусу (күчү) менен; карт, кеңеши менен.",
     turkish: "Genç gücü ile; yaşlı keneşi (meşvereti, tecrübesi) ile.",
     comment: "“Tunç kaleleri gençler kılıçla, ihtiyarlar akıl ve tedbir ile temelinden yıkıp tahrip ederler. Filleri yıkan, aslanı mağlûp edenler ihtiyar tilkinin hilesini bilmezler.” (Sa’di, 1980, 1984)",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "İstişare, keneş",
   },
   {
@@ -1157,7 +1157,7 @@ export const categoryProverbs = [
     kyrgyz: "Бийлик бар жерде зордук бар, зордук бар жерде кордук бар.",
     turkish: "Beylik var yerde, zorlama var; despotizm var yerde, horluk var.",
     comment: "“Allah beni cömert ve güzel ahlak sahibi bir kul olarak yarattı, zorba ve inatçı bir zalim kılmadı.” (Ebu Davud, Et’ime, 17/3773)",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "Dikta, Beylik",
   },
   {
@@ -1165,7 +1165,7 @@ export const categoryProverbs = [
     kyrgyz: "Бийлик бар жерде кулдук бар.",
     turkish: "Beylik var yerde kulluk var.",
     comment: "",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "Dikta, Beylik",
   },
   {
@@ -1173,7 +1173,7 @@ export const categoryProverbs = [
     kyrgyz: "Кан менен энчисин бирге жыйган, ээр токумун көтөрүп бош калат.",
     turkish: "Han ile malını bir yığan, eğer takımı ile ortada kalır.",
     comment: "Hanlar paylaşmayı sevmezler.",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "Dikta, Beylik",
   },
   {
@@ -1181,7 +1181,7 @@ export const categoryProverbs = [
     kyrgyz: "Барбайын десе, эрки жок, башына тиет керки, чот.",
     turkish: "Gitmem dese, erki yok; başına değer, keser, balta!",
     comment: "İhtiyar elden gitmiş.\n“Aşağı tükürsen sakal, yukarı tükürsen bıyık.”",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "Dikta, Beylik",
   },
   {
@@ -1189,7 +1189,7 @@ export const categoryProverbs = [
     kyrgyz: "Бала, биздики; акылы, өзүнүкү.",
     turkish: "Bala bizim, aklı kendinin.",
     comment: "",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "İrade, Fikir Özgürlüğü",
   },
   {
@@ -1197,7 +1197,7 @@ export const categoryProverbs = [
     kyrgyz: "Жөнү жок багыныш, эр жигитке өлүм менен тең.",
     turkish: "Zoraki itaat, eryiğide ölüm ile bir.",
     comment: "Bagınuu: Savaşta, kavgada teslim olmak. 2: Otoriteye boyun eğmek.",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "İrade, Fikir Özgürlüğü",
   },
   {
@@ -1205,7 +1205,7 @@ export const categoryProverbs = [
     kyrgyz: "Баш кесмек бар, тил кесмек жок.",
     turkish: "Baş kesmek var, dil kesmek yok.",
     comment: "Bu makal, Manas destanında birçok kez geçer.",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "İrade, Fikir Özgürlüğü",
   },
   {
@@ -1213,7 +1213,7 @@ export const categoryProverbs = [
     kyrgyz: "Чеченде, жалпынын сөз акысы бар; байда, кедейдин көз акысы бар.",
     turkish: "Hitapta herkesin söz hakkı var; zenginin malında, fakirin göz hakkı var.",
     comment: "",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "İrade, Fikir Özgürlüğü",
   },
   {
@@ -1221,7 +1221,7 @@ export const categoryProverbs = [
     kyrgyz: "Эл ырысын эл тандайт.",
     turkish: "Halk devletini, halk kendi seçer.",
     comment: "",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "Demokrasi",
   },
   {
@@ -1229,7 +1229,7 @@ export const categoryProverbs = [
     kyrgyz: "Улукка пара бергиче, күн өткөрүп бара бер.",
     turkish: "Uluya rüşvet vereceğine, üşenme varıver!",
     comment: "Rüşvet, işin kolayına kaçmak. İş bitirmek ise yiğitliktir.\nPara, bara: Rüşvet",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "Rüşvet, Kayırma",
   },
   {
@@ -1237,7 +1237,7 @@ export const categoryProverbs = [
     kyrgyz: "Калыс ханда, кайын жок; туура ханда, тууган жок.",
     turkish: "Adil handa kayın yok; doğru handa kardeş (yakın) yok.",
     comment: "Adil ve doğru yönetici, hısmını da akrabasını da kayırmaz, herkese eşit davranır.",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "Rüşvet, Kayırma",
   },
   {
@@ -1245,7 +1245,7 @@ export const categoryProverbs = [
     kyrgyz: "Туура бийде тууган жок; туугандуу бийде ыйман жок.",
     turkish: "Doğru beyde akraba yok; akrabalı beyde iman yok.",
     comment: "“İnsaf olmayanda, iman olmaz.”",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "Rüşvet, Kayırma",
   },
   {
@@ -1253,7 +1253,7 @@ export const categoryProverbs = [
     kyrgyz: "Далилдүү сөз, угузат; кур насаат, качырат.",
     turkish: "Delilli söz duyurur; boş nasihat kaçırır.",
     comment: "Nasihat eden insan, önce kendi nefsinde denemeli.\n“Müddeayı ispat için getirilecek deliller, kuvvetli, hakiki olmalı yoksa boyun damarlarını şişirmek hüccet olmaz.” (Sadi, 1980, 166)",
-    category: "15. Yönetim, İdare, Büyüklük, Saygı",
+    category: "Yönetim, İdare, Büyüklük, Saygı",
     subCategory: "Delil, Kanıt",
   },
   {
@@ -1261,7 +1261,7 @@ export const categoryProverbs = [
     kyrgyz: "Эр, бөрү жолдуу.",
     turkish: "Er yolu açık. (Lafzen: Er kurt yollu)",
     comment: "Her daim bir yol bulup, çare üreten insanlar için…\n“Deha için intihap yoktur.”\nBörü: Kurt 2: Yiğitlere mahsus lakap: “Börü жолдуу эр Манас.”",
-    category: "16. Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
+    category: "Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
     subCategory: "Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
   },
   {
@@ -1269,7 +1269,7 @@ export const categoryProverbs = [
     kyrgyz: "Эрендер элдин четинде, үзөңгүдөн жан берет.",
     turkish: "Erenler (yiğitler) el sınırında, üzengiden (at üstünde) can verir.",
     comment: "",
-    category: "16. Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
+    category: "Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
     subCategory: "Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
   },
   {
@@ -1277,7 +1277,7 @@ export const categoryProverbs = [
     kyrgyz: "Камчы болсоң төрт кырдуу бол; жигит болсоң, бир сырдуу бол!",
     turkish: "Kamçı olsan, dört uçlu ol; yiğit olsan, bir sırlı ol!",
     comment: "Yiğidin özü sözü bir olur, yanar döner olmaz!",
-    category: "16. Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
+    category: "Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
     subCategory: "Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
   },
   {
@@ -1285,7 +1285,7 @@ export const categoryProverbs = [
     kyrgyz: "Эр эшиги тоң темир, эритмекке эр керек.",
     turkish: "Er eşiği ham demir, eritmeğe er gerek.",
     comment: "Er yetiştirmek için er gerek.\nТоң : Donmuş, soğuk, ham,\nMüynözü toñ: Dik kafalı",
-    category: "16. Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
+    category: "Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
     subCategory: "Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
   },
   {
@@ -1293,7 +1293,7 @@ export const categoryProverbs = [
     kyrgyz: "Эрдиги тоодой, кеңдиги көлдөй.",
     turkish: "Erliği dağ gibi, genişliği (insanlığı) göl gibi.",
     comment: "İyi insanlar için.",
-    category: "16. Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
+    category: "Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
     subCategory: "Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
   },
   {
@@ -1301,7 +1301,7 @@ export const categoryProverbs = [
     kyrgyz: "Эрдигинен Солто кырылды; эноолүгүнөн Колпош кырылды.",
     turkish: "Solto erliğinden, Kolpoş saflığından kırıldı.",
     comment: "Bir lakap örneği.\nBir kabile; güçlü bir düşmana boyun eğmediği için, diğeri de düşüncesiz hareket ettiği için kırılmış.",
-    category: "16. Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
+    category: "Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
     subCategory: "Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
   },
   {
@@ -1309,7 +1309,7 @@ export const categoryProverbs = [
     kyrgyz: "Эр, элдин оң жагынан каалоосу; жел жагынан паанасы.",
     turkish: "Er, elin sağ cihetten dileği (duası, emeli); yel cihetten siperi.",
     comment: "",
-    category: "16. Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
+    category: "Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
     subCategory: "Yiğit, Vatan Sevgisi, Kahramanlık, Erlik",
   },
   {
@@ -1317,7 +1317,7 @@ export const categoryProverbs = [
     kyrgyz: "Жигиттин куну, жүз жылкы; ары, миң жылкы.",
     turkish: "Yiğidin diyeti, yüz yılkı; arı (namusu) bin yılkı.",
     comment: "",
-    category: "17. Şeref, Haysiyet",
+    category: "Şeref, Haysiyet",
     subCategory: "Şeref, Haysiyet",
   },
   {
@@ -1325,7 +1325,7 @@ export const categoryProverbs = [
     kyrgyz: "Алты саны аманда, жер караган оңоорбу; абийири мүлдө төгүлсө, эл караган оңоорбу!",
     turkish: "“Altı uzvu sağ iken, yere bakan, adam mı; şeref, namus çiğnenirken, ele bakan, adam mı!”",
     comment: "",
-    category: "17. Şeref, Haysiyet",
+    category: "Şeref, Haysiyet",
     subCategory: "Şeref, Haysiyet",
   },
   {
@@ -1333,7 +1333,7 @@ export const categoryProverbs = [
     kyrgyz: "Жаны барда жалынган, жаман эрдин белгиси.",
     turkish: "Canı varken yalvarmak, yaman yiğidin belgisi.",
     comment: "“İyi yiğit, yalvaracağına ölür!”",
-    category: "17. Şeref, Haysiyet",
+    category: "Şeref, Haysiyet",
     subCategory: "Şeref, Haysiyet",
   },
   {
@@ -1341,7 +1341,7 @@ export const categoryProverbs = [
     kyrgyz: "Жаным аман турганда атыма камчы салдырбайм.",
     turkish: "Canım sağ oldukça, atıma kamçı vurdurmam!",
     comment: "",
-    category: "17. Şeref, Haysiyet",
+    category: "Şeref, Haysiyet",
     subCategory: "Şeref, Haysiyet",
   },
   {
@@ -1349,7 +1349,7 @@ export const categoryProverbs = [
     kyrgyz: "Калкка түзөлбөгөн калыпка түзөлбөйт.",
     turkish: "Halk içinde düzelmeyen, kalıpta düzelemez.",
     comment: "",
-    category: "18. Sosyal Yaşam ve Çevre",
+    category: "Sosyal Yaşam ve Çevre",
     subCategory: "Sosyal Yaşam ve Çevre",
   },
   {
@@ -1357,7 +1357,7 @@ export const categoryProverbs = [
     kyrgyz: "Үй бүлөнү бузган, чоң шаарды бузганга барабар.",
     turkish: "Ev halkını bozan, bütün şehri bozanla beraber.",
     comment: "Toplum bir ağaçsa aile onun çekirdeğidir. Tohumu bozan, tarlayı da bozmuş olur.",
-    category: "18. Sosyal Yaşam ve Çevre",
+    category: "Sosyal Yaşam ve Çevre",
     subCategory: "Sosyal Yaşam ve Çevre",
   },
   {
@@ -1365,7 +1365,7 @@ export const categoryProverbs = [
     kyrgyz: "Жеңилбес кол, эл; кыйшайбас жол, эмгек.",
     turkish: "El (halk, toplum), yenilmez bilek; emek, eğrilmez yol.",
     comment: "",
-    category: "18. Sosyal Yaşam ve Çevre",
+    category: "Sosyal Yaşam ve Çevre",
     subCategory: "Sosyal Yaşam ve Çevre",
   },
   {
@@ -1373,7 +1373,7 @@ export const categoryProverbs = [
     kyrgyz: "Эки жаман таарынышса, амандашпайт; эки жакшы таарынышса, жамандашпайт.",
     turkish: "İki yaman darılsa emanlaşmaz (barışmaz); iki iyi darılsa da yamanlaşmaz.",
     comment: "",
-    category: "18. Sosyal Yaşam ve Çevre",
+    category: "Sosyal Yaşam ve Çevre",
     subCategory: "Sosyal Yaşam ve Çevre",
   },
    {
@@ -1381,7 +1381,7 @@ export const categoryProverbs = [
     kyrgyz: "Элге эл кошулган, дөөлөт; элден эл (кетсе) бөлүнгөн, мээнет.",
     turkish: "Ele el koşulsa (katılsa) devlet; elden el bölünse mihnet.",
     comment: "",
-    category: "19. Birlik, Dirlik",
+    category: "Birlik, Dirlik",
     subCategory: "Birlik, Dirlik",
   },
   {
@@ -1389,7 +1389,7 @@ export const categoryProverbs = [
     kyrgyz: "Калкынан азган кор экен, элдүүнүн баары эр экен, элинен азган жигитке эртелеп өлүм эп экен.",
     turkish: "Halkından ayrılan hor olur, eli olanın hepsi er olur, elinden ayrılan yiğide erken ölüm hak olur.",
     comment: "",
-    category: "19. Birlik, Dirlik",
+    category: "Birlik, Dirlik",
     subCategory: "Birlik, Dirlik",
   },
   {
@@ -1397,7 +1397,7 @@ export const categoryProverbs = [
     kyrgyz: "Ынтымак бар үйгө ырыс түнөйт.",
     turkish: "Birlik ve dirlik olan eve sekine iner (tüner).",
     comment: "",
-    category: "19. Birlik, Dirlik",
+    category: "Birlik, Dirlik",
     subCategory: "Birlik, Dirlik",
   },
   {
@@ -1405,7 +1405,7 @@ export const categoryProverbs = [
     kyrgyz: "Байлыктан көрө биримдик артык.",
     turkish: "Baylığa göre, dirlik iyicedir!",
     comment: "“Ekmeğimi al da, dirliğimi alma.”",
-    category: "19. Birlik, Dirlik",
+    category: "Birlik, Dirlik",
     subCategory: "Birlik, Dirlik",
   },
   {
@@ -1413,7 +1413,7 @@ export const categoryProverbs = [
     kyrgyz: "Байлык, байлык эмес; бирдик, байлык.",
     turkish: "Baylık, baylık değil, birlik baylıktır.",
     comment: "",
-    category: "19. Birlik, Dirlik",
+    category: "Birlik, Dirlik",
     subCategory: "Birlik, Dirlik",
   },
   {
@@ -1421,7 +1421,7 @@ export const categoryProverbs = [
     kyrgyz: "Тириликтин күчү бирдикте.",
     turkish: "Diriliğin gücü birlikte.",
     comment: "“Nerede dirlik, orada birlik.”",
-    category: "19. Birlik, Dirlik",
+    category: "Birlik, Dirlik",
     subCategory: "Birlik, Dirlik",
   },
   {
@@ -1429,7 +1429,7 @@ export const categoryProverbs = [
     kyrgyz: "Бирдик болгон жерде, тирдик.",
     turkish: "Birlik olan yerde, dirlik.",
     comment: "",
-    category: "19. Birlik, Dirlik",
+    category: "Birlik, Dirlik",
     subCategory: "Birlik, Dirlik",
   },
   {
@@ -1437,7 +1437,7 @@ export const categoryProverbs = [
     kyrgyz: "Эки атаны төрткө бөлгөн кол башчы жоодон өлөт.",
     turkish: "İki atayı dörde bölen lider, düşmandan ölür.",
     comment: "Yönettiği insanları sûnî farklılıklar yüzünden “beriki, öteki” diye ayrıştıran liderin ülkesi düşmana yem olur.",
-    category: "19. Birlik, Dirlik",
+    category: "Birlik, Dirlik",
     subCategory: "Birlik, Dirlik",
   },
   {
@@ -1445,7 +1445,7 @@ export const categoryProverbs = [
     kyrgyz: "Алдыңа аш келсе, атаңдын кунунан кеч.",
     turkish: "Önüne yemek gelse, babanın diyetinden vazgeç.",
     comment: "Af isteyeni affet.\nKun: Diyet, kan parası.",
-    category: "19. Birlik, Dirlik",
+    category: "Birlik, Dirlik",
     subCategory: "Bağışlama, Af, Akrabalık",
   },
   {
@@ -1453,7 +1453,7 @@ export const categoryProverbs = [
     kyrgyz: "Туугандын өзү таарынса да, боору таарынбайт.",
     turkish: "Akrabanın özü darılsa da böğrü (ciğeri) darılmaz.",
     comment: "",
-    category: "19. Birlik, Dirlik",
+    category: "Birlik, Dirlik",
     subCategory: "Bağışlama, Af, Akrabalık",
   },
   {
@@ -1461,7 +1461,7 @@ export const categoryProverbs = [
     kyrgyz: "Аял турмушу, заман күзгүсү.",
     turkish: "Kadının yaşantısı, zamanın aynası.",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Kadın, Erkek",
   },
   {
@@ -1469,7 +1469,7 @@ export const categoryProverbs = [
     kyrgyz: "Эркекке жүрөк, аялга жөлөк керек.",
     turkish: "Erkeğe yürek gerek, kadına destek gerek.",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Kadın, Erkek",
   },
   {
@@ -1477,7 +1477,7 @@ export const categoryProverbs = [
     kyrgyz: "Зайыбы жаман лөк, өз үйүндө кор; зайыбы жакшы чор, эл көзүнө зор.",
     turkish: "Kadını yaman, bey de olsa, öz evinde hor olur; kadını iyi, kul da olsa, el gözünde büyük olur.",
     comment: "Zayıp: Kadın 2: Karı, eş 3: Zayıf, korkak erkek\nLök: Tek hörgüçlü deve. 2: Güçlü adam. 3: Ağa, paşa\nÇor: Kul, köle.",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Kadın, Erkek",
   },
   {
@@ -1485,7 +1485,7 @@ export const categoryProverbs = [
     kyrgyz: "Баардык жигит кыз тандайт, бактылуу жигит уз тандайт.",
     turkish: "Her yiğit kız seçer; bahtlı yiğit eş seçer.",
     comment: "Uz: Çalışkan, becerikli, dikiş diken kadın.",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Kadın, Erkek",
   },
   {
@@ -1493,7 +1493,7 @@ export const categoryProverbs = [
     kyrgyz: "Камчы кайраттуу болсо, катын уяттуу болот.",
     turkish: "Kamçı (koca) gayretli olursa, kadın edepli olur.",
     comment: "Kırgızcada katın kelimesi Türkçedeki karı kelimesi gibi tabu (taboo) anlam kazanmış.",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Kadın, Erkek",
   },
   {
@@ -1501,7 +1501,7 @@ export const categoryProverbs = [
     kyrgyz: "Эр карыса ат бөлөт, кемпирине жат болот.",
     turkish: "Er yaşlansa at beler (besler); kocakarıya yâd olur.",
     comment: "Adam yaşlanınca karısından ziyade atıyla ilgilenir.",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Kadın, Erkek",
   },
   {
@@ -1509,7 +1509,7 @@ export const categoryProverbs = [
     kyrgyz: "Эркектин кой сойгону, аялдын сайма сайганы менен тең.",
     turkish: "Erkeğin koyun kesmesi, kadının nakış dikiş işlemesiyle eş (bir).",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Kadın, Erkek",
   },
   {
@@ -1517,7 +1517,7 @@ export const categoryProverbs = [
     kyrgyz: "Жеңең билди дегенче, жер жүзү укту десеңчи.",
     turkish: "“Yengen bildi diyeceğine, yeryüzü duydu desene!”",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Gıybet, Kovu, Dedikodu",
   },
   {
@@ -1525,7 +1525,7 @@ export const categoryProverbs = [
     kyrgyz: "Ээси теңдикке көнсө да, ууру көнбөйт.",
     turkish: "Çalınan eşyanın sahibi yeminleşmeye razı olsa da, hırsız razı olmuyor. “Baba, bir hırsız tuttum!’ ‘Oğlum tut getir!’ ‘gelmiyor!’ ‘bırak gitsin!’ ‘bırakmıyor!”",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Arsız",
   },
   {
@@ -1533,7 +1533,7 @@ export const categoryProverbs = [
     kyrgyz: "Кыялданган тилекти кыстаган турмуш бийлейт.",
     turkish: "Oylandığın oyu (düşünceni, planlarını) kısıtlayan hayat, yener.",
     comment: "Düşünüp gerçekleştirmek istediğin planlarını, hayatın gerçekleri, bozar.\nİkinci Manası: Tefekkür eden, emelini kısan, yaşamı yönetir.",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Realite",
   },
   {
@@ -1541,7 +1541,7 @@ export const categoryProverbs = [
     kyrgyz: "Жеңилбес кол, эл, кыйшайбас жол, эмгек.",
     turkish: "Yenilmez bilek, halk (el, toplum); yanılmaz (eğrilmez) yol, emek.",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Realite",
   },
   {
@@ -1549,7 +1549,7 @@ export const categoryProverbs = [
     kyrgyz: "Бир ирет даам таткан жериңе миң ирет салам бер.",
     turkish: "Bir lokma taam tattığın yere, bin kere selam ver.",
     comment: "Bir fincan kahvenin kırk yıl hatırı var.",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Minnettarlık, Selam, Kadir, Kıymet",
   },
   {
@@ -1557,7 +1557,7 @@ export const categoryProverbs = [
     kyrgyz: "Кары да бол, жаш да бол, кадырлашкын тирүүңдө; калат бир күн алтын баш казылган көрдүн түбүндө.",
     turkish: "Yaşlı da ol, genç de ol, kadirleşin diride; kalır bir gün altın baş, kazılan körün dibinde.",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Minnettarlık, Selam, Kadir, Kıymet",
   },
   {
@@ -1565,7 +1565,7 @@ export const categoryProverbs = [
     kyrgyz: "Жүз жолу айткандан бир жолу көрсөткөн жакшы.",
     turkish: "Yüz kere söyleyenden, bir kere gösteren iyidir.",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "İzah, Metodoloji",
   },
   {
@@ -1573,7 +1573,7 @@ export const categoryProverbs = [
     kyrgyz: "Баспас ат, өтпөс бычак, эрди тез карытат.",
     turkish: "Basmaz at, kör bıçak; yiğidi erken kocatır.",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Alet",
   },
   {
@@ -1581,7 +1581,7 @@ export const categoryProverbs = [
     kyrgyz: "Миң күнү кыйналсаң, бир күнү унутаарсың.",
     turkish: "Bin gün sıkılsan, bir gün rahatlarsın.",
     comment: "“Zorlukla beraber kolaylık vardır.”",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Zorluk, Kolaylık",
   },
   {
@@ -1589,7 +1589,7 @@ export const categoryProverbs = [
     kyrgyz: "Он түгөттөн, бир табышкер артык.",
     turkish: "On tüketenden, bir kazanan iyidir.",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Üretim, Tüketim",
   },
   {
@@ -1597,7 +1597,7 @@ export const categoryProverbs = [
     kyrgyz: "Эки жинди бир кетти; эсен барып, соо келсин.",
     turkish: "İki deli beraber gitti; esen varıp sağ gelsinler.",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Mizah",
   },
   {
@@ -1605,7 +1605,7 @@ export const categoryProverbs = [
     kyrgyz: "Сиздердикине барганда, ичейли да жейли; биздикине келгенде, ырдайлы да ойнойлу.",
     turkish: "Sizin eve gidince içelim de, yiyelim; bizim eve gelince, şarkı söyleyelim, oynayalım.",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Mizah",
   },
   {
@@ -1613,7 +1613,7 @@ export const categoryProverbs = [
     kyrgyz: "Жеңең билди дегенче, жер жүзү укту десеңчи.",
     turkish: "“Yengen duydu diyeceğine, yeryüzü duydu desene!”",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Mizah",
   },
   {
@@ -1621,7 +1621,7 @@ export const categoryProverbs = [
     kyrgyz: "Отуз уулум болгуча, оосурак чалым болсочу.",
     turkish: "“Otuz oğlum olacağına, çok yellenen ihtiyar (babam) olsa ya!”",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Mizah",
   },
   {
@@ -1629,7 +1629,7 @@ export const categoryProverbs = [
     kyrgyz: "Жүз сөздү бир сөз токтотот.",
     turkish: "Yüz sözü, bir söz susturur.",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Keyfiyet, Kemiyet",
   },
   {
@@ -1637,7 +1637,7 @@ export const categoryProverbs = [
     kyrgyz: "Жарнамаң мыкты болсо, соодаң жакшы болот.",
     turkish: "Reklamın güçlü olsa, ticaretin iyi olur.",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Reklam",
   },
   {
@@ -1645,7 +1645,7 @@ export const categoryProverbs = [
     kyrgyz: "Ыр, гүл, өмүрдүн канаты.",
     turkish: "Şiir ve çiçek ömrün kanadı.",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Sanat",
   },
   {
@@ -1653,7 +1653,7 @@ export const categoryProverbs = [
     kyrgyz: "Баш, акылдын кабы; көз, жандын айнеги.",
     turkish: "Baş, aklın kabı; göz, canın penceresi.",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Mecaz",
   },
   {
@@ -1661,7 +1661,7 @@ export const categoryProverbs = [
     kyrgyz: "Дөөлөт тоголок болот, мээнет жалпак болот.",
     turkish: "Devlet, yuvarlak olur; mihnet yassı olur.",
     comment: "Devlet gidici, mihnet kalıcı.",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Mecaz",
   },
   {
@@ -1669,7 +1669,7 @@ export const categoryProverbs = [
     kyrgyz: "Кейүү бар, кер тартуу жок.",
     turkish: "Pişman olmak var; vazgeçmek yok.",
     comment: "“Ölmek var, dönmek yok.”",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Kararlılık",
   },
   {
@@ -1677,7 +1677,7 @@ export const categoryProverbs = [
     kyrgyz: "Дүйнөгө курсагың менен карасаң, көңдөй каласың.",
     turkish: "Dünyayı kursağın ile izlesen, tezek gibi olursun.",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Nefis ve Dünya",
   },
   {
@@ -1685,7 +1685,7 @@ export const categoryProverbs = [
     kyrgyz: "Дүйнөгө мас болбогон, мансапка бой көтөрбөйт.",
     turkish: "Dünyaya meftun olmayan, makam, mansıba talip olmaz.",
     comment: "“Dünya laşedir, onun talibi köpeklerdir.”",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Nefis ve Dünya",
   },
   {
@@ -1693,7 +1693,7 @@ export const categoryProverbs = [
     kyrgyz: "Уя көрктүү эмес, шумкар көрктүү.",
     turkish: "Yuva görklü değil, şahin görklü.",
     comment: "Yer değil, can değerli. Önce insan.",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "İnsan",
   },
   {
@@ -1701,7 +1701,7 @@ export const categoryProverbs = [
     kyrgyz: "Адамдын көркү, бөз; көңүлү, эки ооз сөз.",
     turkish: "İnsanın süsü bez; gönlü, iki hoş söz.",
     comment: "“Âvâzeyi bu ‘âleme Dâvûd gibi sal\nBâkî kalan bu kubbede bir hoş sadâ imiş.” (Baki)",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "İnsan",
   },
   {
@@ -1709,7 +1709,7 @@ export const categoryProverbs = [
     kyrgyz: "Кол, кудайдын мөөрү.",
     turkish: "İmza, Allah’ın mühürüdür.",
     comment: "Attığın imzadan sorumlusun.",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "İmza",
   },
   {
@@ -1717,7 +1717,7 @@ export const categoryProverbs = [
     kyrgyz: "Сапарбайдын сан жылкысы көрүнбөй, Кулансарыктын кула байталы көрүнөт.",
     turkish: "Saparbay’ın bir sürü yılkısı görünmez; Kulansarık’ın bir kır (boz) kısrağı görünür.",
     comment: "Sık sık hediye getirsen gözükmez ama bir defa getirsen herkes farkeder.",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Gariplik",
   },
   {
@@ -1725,7 +1725,7 @@ export const categoryProverbs = [
     kyrgyz: "Жүргөнүмдү жел билет, конгонумду сай билет.",
     turkish: "Yürüdüğümü yel bilir, konduğumu dere kenarı bilir.",
     comment: "“Nerde akşam, orda sabah.”",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Gariplik",
   },
   {
@@ -1733,7 +1733,7 @@ export const categoryProverbs = [
     kyrgyz: "Муруттарын сыйпайткан эр башына күн тубар.",
     turkish: "Bıyığına bakan er başına talih konar.",
     comment: "“Temizlik talihin öncüsüdür.”",
-    category: "20. Kadın, Erkek",
+    category: " Kadın, Erkek",
     subCategory: "Temizlik, düzen",
   },
   {
@@ -1741,7 +1741,7 @@ export const categoryProverbs = [
     kyrgyz: "Акмак эл мени билбейт деп наалыса, акылдуу элди мен билбейм деп наалыйт.",
     turkish: "Ahmak “el beni bilmiyor!” diye yakınır; akıllı ise “ben eli bilmiyorum!” diye yakınır.",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Empati",
   },
   {
@@ -1749,7 +1749,7 @@ export const categoryProverbs = [
     kyrgyz: "Оозу ашка тийгенде, тумшугу ташка тийди.",
     turkish: "Ağzı yemeğe değince, gagası taşa değdi.",
     comment: "Başına bir fenalık geldi, başına gelen iyiliğe sevinemedi.",
-    category: "20. Kadın, Erkek",
+    category: "Kadın, Erkek",
     subCategory: "Kaza, Kader",
   },
   {
@@ -1757,7 +1757,7 @@ export const categoryProverbs = [
     kyrgyz: "Башыңа төө түшсө, чымындай көр, чымын консо төөдөй көр.",
     turkish: "“Başına deve düşse, sinek gibi gör; sinek konsa, deve gör.”",
     comment: "",
-    category: "20. Kadın, Erkek",
+    category: " Kadın, Erkek",
     subCategory: "Kaza, Kader",
   },
   {
@@ -1765,7 +1765,7 @@ export const categoryProverbs = [
     kyrgyz: "Үмүтсүз жандан без, кайырсыз малдан без.",
     turkish: "Ümitsiz (karamsar) insandan geç; hayırsız maldan geç (uzak dur).",
     comment: "“Allah’tan umut kesilmez.”",
-    category: "21. Ümit",
+    category: " Ümit",
     subCategory: "Ümit",
   },
   {
@@ -1773,7 +1773,7 @@ export const categoryProverbs = [
     kyrgyz: "Үмүтсүз киши, ырыскысыз киши.",
     turkish: "Ümitsiz kişi, rızıksız kişidir.",
     comment: "",
-    category: "21. Ümit",
+    category: "Ümit",
     subCategory: "Ümit",
   },
   {
@@ -1781,7 +1781,7 @@ export const categoryProverbs = [
     kyrgyz: "Элин сыйлабаган тилин жээрийт.",
     turkish: "Elini saymayan dilini yerer (dışlar).",
     comment: "",
-    category: "22. Dil Hassasiyeti",
+    category: " Dil Hassasiyeti",
     subCategory: "Dil Hassasiyeti",
   },
   {
@@ -1789,7 +1789,7 @@ export const categoryProverbs = [
     kyrgyz: "Эне тилин сүйбөгөн, элин сүйүп жарытпайт.",
     turkish: "Ana dilini sevmeyen, milletini de sevip saymaz.",
     comment: "",
-    category: "22. Dil Hassasiyeti",
+    category: " Dil Hassasiyeti",
     subCategory: "Dil Hassasiyeti",
   },
 ];
