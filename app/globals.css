@@ -24,3 +24,40 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* ============================= */
+/* TELEFON AYARLARI */
+/* ============================= */
+
+html {
+  color-scheme: light;
+}
+
+body {
+  background: white;
+  color: #111;
+}
+
+/* Telefon */
+@media (max-width:768px){
+
+  body{
+    background:white !important;
+    color:#111 !important;
+  }
+
+  div{
+    color:#111;
+  }
+
+  input{
+    background:white !important;
+    color:#111 !important;
+  }
+
+  textarea{
+    background:white !important;
+    color:#111 !important;
+  }
+
+}

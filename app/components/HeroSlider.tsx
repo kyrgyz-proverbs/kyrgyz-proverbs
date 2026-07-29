@@ -25,6 +25,21 @@ export default function HeroSlider() {
 
   const [current, setCurrent] = useState(0);
 
+const [isMobile, setIsMobile] = useState(false);
+
+useEffect(() => {
+  const check = () => {
+    setIsMobile(window.innerWidth <= 768);
+  };
+
+  check();
+
+  window.addEventListener("resize", check);
+
+  return () => window.removeEventListener("resize", check);
+
+}, []);
+
   useEffect(() => {
 
     const timer = setInterval(() => {
@@ -39,16 +54,15 @@ export default function HeroSlider() {
   return (
     <div
   style={{
-    width: "83%",
+    width: isMobile ? "100%" : "83%",
     maxWidth: 1500,
-    height: 545,
+    height: isMobile ? 230 : 545,
     position: "relative",
     overflow: "hidden",
     borderRadius: 15,
     margin: "0 auto 30px",
   }}
 >
-
       <Image
         src={images[current]}
         alt="Kırgızistan"

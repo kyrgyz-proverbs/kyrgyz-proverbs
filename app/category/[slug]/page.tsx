@@ -65,8 +65,11 @@ export default function CategoryPage() {
 
   return (
     <div
-      style={{
-        maxWidth: 900,
+  style={{
+    maxWidth:900,
+    background:"white",
+    color:"#111",
+    minHeight:"100vh",
         margin: "40px auto",
         padding: 20,
         fontFamily: "Arial",
@@ -126,7 +129,7 @@ export default function CategoryPage() {
                     borderRadius:10,
                     padding:15,
                     marginBottom:15,
-                    background:"#fff"
+                    color:"#111"
                   }}
                 >
 
@@ -153,6 +156,7 @@ export default function CategoryPage() {
                           marginTop:12,
                           padding:10,
                           background:"#f8f8f8",
+                          color:"#222",
                           borderLeft:"4px solid #0d6efd"
                         }}
                       >

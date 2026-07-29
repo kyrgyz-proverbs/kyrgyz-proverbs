@@ -48,7 +48,15 @@ const letter = decodeURIComponent(String(params?.letter || ""));
   const visibleItems = searched.slice(0, visibleCount);
 
   return (
-    <div style={{ padding: 20, fontFamily: "Arial" }}>
+    <div
+  style={{
+    padding: 20,
+    fontFamily: "Arial",
+    background: "white",
+    color: "#111",
+    minHeight: "100vh",
+  }}
+>
       <h1 style={{ marginBottom: 20 }}>
         {letter.toUpperCase()} Harfi
       </h1>
@@ -85,18 +93,25 @@ const letter = decodeURIComponent(String(params?.letter || ""));
                 marginBottom: 10,
                 borderRadius: 6,
                 backgroundColor: "#fff",
+                color: "#111",
               }}
             >
               <strong style={{ display: "block", marginBottom: 5 }}>
                 {item.kyrgyz}
               </strong>
 
-              <p style={{ margin: 0, color: "#555" }}>
+              <p style={{ margin: 0, color: "#333" }}>
                 {item.turkish}
               </p>
 
               {item.comment && (
-                <p style={{ marginTop: 5, color: "gray", fontSize: 13 }}>
+               <p
+  style={{
+    marginTop: 5,
+    color: "#555",
+    fontSize: 13,
+  }}
+>
                   {item.comment}
                 </p>
               )}

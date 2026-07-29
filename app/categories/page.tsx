@@ -20,12 +20,16 @@ export default function CategoriesPage() {
         margin: "40px auto",
         padding: 20,
         fontFamily: "Arial",
+        background: "#fff",
+        color: "#111",
+        minHeight: "100vh",
       }}
     >
       <h1
         style={{
           textAlign: "center",
           marginBottom: 10,
+          color: "#111",
         }}
       >
         📂 Tüm Kategoriler
@@ -63,6 +67,7 @@ export default function CategoriesPage() {
                 borderRadius: 12,
                 padding: 20,
                 background: "#fff",
+                color: "#111",
                 transition: "0.2s",
                 cursor: "pointer",
                 height: "100%",
@@ -73,6 +78,7 @@ export default function CategoriesPage() {
                   marginTop: 0,
                   marginBottom: 10,
                   textTransform: "capitalize",
+                  color: "#111",
                 }}
               >
                 📚 {category}
@@ -87,7 +93,11 @@ export default function CategoriesPage() {
                 Toplam <b>{grouped[category].length}</b> atasözü bulunmaktadır.
               </p>
 
-              <b style={{ color: "#0d6efd" }}>
+              <b
+                style={{
+                  color: "#0d6efd",
+                }}
+              >
                 Atasözlerini Gör →
               </b>
             </div>

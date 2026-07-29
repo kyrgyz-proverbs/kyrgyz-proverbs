@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import { alphabetProverbs, categoryProverbs } from "../data/proverbs";
 import HeroSlider from "./components/HeroSlider";
@@ -11,6 +11,21 @@ import { useRouter } from "next/navigation";
 
 export default function Home() {
   const [showCategories, setShowCategories] = useState(false);
+  const [isMobile, setIsMobile] = useState(false);
+
+useEffect(() => {
+
+  const check = () => {
+    setIsMobile(window.innerWidth <= 768);
+  };
+
+  check();
+
+  window.addEventListener("resize", check);
+
+  return () => window.removeEventListener("resize", check);
+
+}, []);
   const router = useRouter();
   
   const getRandomProverbs = () => {
@@ -210,7 +225,7 @@ const randomHomepageProverbs = getRandomProverbs();
       <div
         style={{
           display: "grid",
-          gridTemplateColumns: "1fr 1fr",
+         gridTemplateColumns: isMobile ? "1fr" : "1fr 1fr",
           gap: 20,
         }}
       >
