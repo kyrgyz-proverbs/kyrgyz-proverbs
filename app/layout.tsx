@@ -32,10 +32,10 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col">
 
         <Script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2856XXXXXXXX"
-          crossOrigin="anonymous"
-        />
+  async
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2856862174002222"
+  crossOrigin="anonymous"
+/>
 
         {children}
 
