@@ -129,6 +129,31 @@ const randomHomepageProverbs = getRandomProverbs();
       <b>Devamını oku →</b>
     </div>
   </Link>
+ <Link
+    href="/sources"
+    style={{
+      textDecoration: "none",
+      color: "inherit",
+    }}
+  >
+    <div
+      style={{
+        border: "1px solid #ddd",
+        padding: 20,
+        borderRadius: 10,
+        cursor: "pointer",
+        background: "#fff",
+      }}
+    >
+      <h2>📚 Kaynaklar</h2>
+
+      <p>
+        Makallakap'ta kullanılan kitaplar, sözlükler ve diğer kaynaklar.
+      </p>
+
+      <b>Kaynakları görüntüle →</b>
+    </div>
+  </Link>
 
 </div>
 
