@@ -19,6 +19,8 @@ const images = [
   "/images/kyrgyzstan/13.jpg",
   "/images/kyrgyzstan/14.jpg",
   "/images/kyrgyzstan/15.jpg",
+  "/images/kyrgyzstan/16.jpg",
+  "/images/kyrgyzstan/17.jpg"
 ];
 
 export default function HeroSlider() {
@@ -64,7 +66,7 @@ useEffect(() => {
   }}
 >
       <Image
-        src={images[current]}
+       src={images[current]}
         alt="Kırgızistan"
         fill
         style={{

@@ -246,73 +246,123 @@ const randomHomepageProverbs = getRandomProverbs();
         </div>
       </div>
 
-      {/* 2 SÜTUN (SADECE GÖRSEL KALDI) */}
-      <div
-        style={{
-          display: "grid",
-         gridTemplateColumns: isMobile ? "1fr" : "1fr 1fr",
-          gap: 20,
-        }}
-      >
-        {/* SOL PANEL */}
+      ```tsx
+{/* İKİ SÜTUN */}
 <div
   style={{
-    height: "80vh",
-    overflowY: "auto",
-    border: "1px solid #ddd",
-    padding: 15,
+    display: "grid",
+    gridTemplateColumns: isMobile ? "1fr" : "1fr 1fr",
+    gap: 20,
+    alignItems: "start",
   }}
 >
-  <h2>Öne Çıkanlar</h2>
-
-  {randomHomepageProverbs.map((item) => (
-    <div
-      key={item.id}
-      style={{
-        border: "1px solid #ddd",
-        padding: 10,
-        marginBottom: 10,
-      }}
-    >
-      <strong>{item.kyrgyz}</strong>
-      <p>{item.turkish}</p>
-    </div>
-  ))}
-</div>
-
-<Link
-  href="/categories"
-  style={{
-    textDecoration: "none",
-    color: "inherit",
-  }}
->
+  {/* SOL SÜTUN: ÖNE ÇIKANLAR */}
   <div
     style={{
+      height: "80vh",
+      overflowY: "auto",
       border: "1px solid #ddd",
-      padding: 20,
-      marginTop: 20,
-      borderRadius: 10,
-      background: "#fff",
-      cursor: "pointer",
-      textAlign: "center",
+      padding: 15,
     }}
   >
-    <h2>📂 Tüm Kategorileri Gör</h2>
+    <h2>Öne Çıkanlar</h2>
 
-    <p>
-      Atasözlerini konularına göre inceleyebilirsiniz.
-    </p>
-
-    <b>Devam Et →</b>
-  </div>
-</Link>
-
-        
+    {randomHomepageProverbs.map((item) => (
+      <div
+        key={item.id}
+        style={{
+          border: "1px solid #ddd",
+          padding: 10,
+          marginBottom: 10,
+        }}
+      >
+        <strong>{item.kyrgyz}</strong>
+        <p>{item.turkish}</p>
       </div>
+    ))}
+  </div>
+
+  {/* SAĞ SÜTUN: KATEGORİLER VE DİZİNLER */}
+  <div style={{ minWidth: 0 }}>
+    {/* TÜM KATEGORİLER */}
+    <Link
+      href="/categories"
+      style={{
+        textDecoration: "none",
+        color: "inherit",
+      }}
+    >
+      <div
+        style={{
+          border: "1px solid #ddd",
+          padding: 20,
+          borderRadius: 10,
+          background: "#fff",
+          cursor: "pointer",
+          textAlign: "center",
+        }}
+      >
+        <h2>📂 Tüm Kategorileri Gör</h2>
+
+        <p>
+          Atasözlerini konularına göre inceleyebilirsiniz.
+        </p>
+
+        <b>Devam Et →</b>
+      </div>
+    </Link>
+
+    {/* LATİN VE KİRİL DİZİNLERİ: SAĞ SÜTUNDA, KATEGORİLERİN ALTINDA */}
+    <div className="mt-6 grid grid-cols-1 gap-4">
+      <Link
+        href="/latin-dizin"
+        style={{
+          textDecoration: "none",
+          color: "inherit",
+        }}
+      >
+        <div className="rounded-xl border border-gray-200 p-5 shadow-sm transition hover:border-[#8C2128] hover:shadow-md dark:border-gray-700">
+          <h2 className="font-bold text-[#8C2128]">
+            Latin Alfabesiyle Dizin
+          </h2>
+
+          <p className="mt-1 text-sm text-gray-600 dark:text-gray-300">
+            Latin harfleriyle alfabetik Kırgızca dizin
+          </p>
+
+          <b className="mt-3 inline-block text-sm">
+            İncele →
+          </b>
+        </div>
+      </Link>
+
+      <Link
+        href="/kirill-dizin"
+        style={{
+          textDecoration: "none",
+          color: "inherit",
+        }}
+      >
+        <div className="rounded-xl border border-gray-200 p-5 shadow-sm transition hover:border-[#8C2128] hover:shadow-md dark:border-gray-700">
+          <h2 className="font-bold text-[#8C2128]">
+            Кирилл Арибиндеги Дизин
+          </h2>
+
+          <p className="mt-1 text-sm text-gray-600 dark:text-gray-300">
+            Кыргызча сөздөрдүн алфавиттик көрсөткүчү
+          </p>
+
+          <b className="mt-3 inline-block text-sm">
+            Көрүү →
+          </b>
+        </div>
+      </Link>
+    </div>
+  </div>
+</div>
 
       <CommentSection />
       <Contact />
-    </div>
+      </div>
   );
 }
